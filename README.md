@@ -1,4 +1,4 @@
-# Own mix of Dark Modern and One Dark's themes
+# VS Code dark theme inspired by the Dark Modern and One Dark themes
 
 Big thanks for inspiration to authors of these themes:
 
@@ -7,8 +7,8 @@ Big thanks for inspiration to authors of these themes:
 
 ## Notes
 
-This theme was mainly created with setups in mind that use a `single tab` instead of multiple tabs.
-See: [workbench.editor.showTabs](vscode://settings/workbench.editor.showTabs)
+This theme was primarily designed for setups that utilize a single tab, rather than multiple tabs.
+[workbench.editor.showTabs](vscode://settings/workbench.editor.showTabs)
 
 ## Screenshots
 

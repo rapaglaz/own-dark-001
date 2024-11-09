@@ -3,15 +3,15 @@
   "displayName": "own-dark-001",
   "icon": "./images/logo-5.png",
   "description": "Own mix of Dark Modern and One Dark's themes",
-  "publisher": "rpglaz",
+  "publisher": "own-themes",
   "author": {
-    "name": "rpglaz"
+    "name": "own-themes"
   },
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rpglaz/own-dark-001"
+    "url": "https://github.com/rapaglaz/own-dark-001"
   },
   "version": "1.1.28",
   "engines": {
