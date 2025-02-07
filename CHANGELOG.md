@@ -1,24 +1,38 @@
-# 1.1.30
+## [1.1.32](https://github.com/rapaglaz/own-dark-001/compare/1.1.31...1.1.32) (2025-02-09)
+
+
+### Bug Fixes
+
+* test patch release ([b8a5947](https://github.com/rapaglaz/own-dark-001/commit/b8a59479f668f9ff8b39097c4519e82b54ce3cea))
+* update renovate and make test release ([499a76a](https://github.com/rapaglaz/own-dark-001/commit/499a76aff28f5739d27442251d4934161e94e85b))
+
+## 1.1.31
+
+Add colors:
+
+- git.blame.editorDecorationForeground
+
+## 1.1.30
 
 Update colors:
 
 - editorInfo.foreground
 
-# 1.1.29
+## 1.1.29
 
 Update colors:
 
 - editor.selectionBackground
 - editorUnnecessaryCode.opacity
 
-# 1.1.27
+## 1.1.27
 
 Update colors:
 
 - sideBarSectionHeader.foreground
 - sideBarSectionHeader.border
 
-# 1.1.26
+## 1.1.26
 
 Update colors:
 
@@ -31,7 +45,7 @@ Update colors:
 - diffEditor.unchangedCodeBackground
 - diffEditor.unchangedRegionBackground
 
-# 1.1.25
+## 1.1.25
 
 Update colors:
 
@@ -40,13 +54,13 @@ Update colors:
 - list.activeSelectionForeground
 - list.hoverForeground
 
-# 1.1.24
+## 1.1.24
 
 Update colors:
 
 - editorWarning.foreground
 
-# 1.1.23
+## 1.1.23
 
 Update colors:
 
@@ -56,13 +70,13 @@ Update colors:
 - editorBracketHighlight.foreground2
 - editorBracketHighlight.foreground3
 
-# 1.1.22
+## 1.1.22
 
 Update colors:
 
 - editorUnnecessaryCode.border
 
-# 1.1.21
+## 1.1.21
 
 Update colors:
 
@@ -72,7 +86,7 @@ Update colors:
 - terminalStickyScrollHover.background
 - editorStickyScrollHover.background
 
-# 1.1.20
+## 1.1.20
 
 Update colors:
 
@@ -80,7 +94,7 @@ Update colors:
 - terminalCommandDecoration.successBackground
 - list.inactiveSelectionBackground
 
-# 1.1.19
+## 1.1.19
 
 Update colors:
 
@@ -91,7 +105,7 @@ Update colors:
 - editorSuggestWidget.selectedForeground
 - editorSuggestWidget.selectedIconForeground
 
-# 1.1.18
+## 1.1.18
 
 Update colors:
 
@@ -107,7 +121,7 @@ Update colors:
 - list.inactiveFocusOutline
 - list.inactiveSelectionBackground
 
-# 1.1.17
+## 1.1.17
 
 Update colors:
 

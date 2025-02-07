@@ -1,38 +1,46 @@
 {
-  "name": "own-dark-001",
-  "displayName": "own-dark-001",
-  "icon": "./images/logo-5.png",
-  "description": "Own mix of Dark Modern and One Dark's themes",
-  "publisher": "own-themes",
-  "author": {
-    "name": "own-themes"
-  },
-  "private": true,
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rapaglaz/own-dark-001"
-  },
-  "version": "1.1.30",
-  "engines": {
-    "vscode": "^1.91.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "own-dark-001",
-        "uiTheme": "vs-dark",
-        "path": "./themes/own-dark-001-color-theme.json"
-      }
-    ]
-  },
-  "scripts": {
-    "vsce:pack": "vsce pack -o ./",
-    "vsce:build": "vsce pack -o ./builds",
-    "vsce:publish": "vsce publish"
-  },
-  "dependencies": {}
+	"name": "own-dark-001",
+	"displayName": "own-dark-001",
+	"icon": "./images/logo-5.png",
+	"description": "Own mix of Dark Modern and One Dark's themes",
+	"publisher": "own-themes",
+	"author": {
+		"name": "own-themes"
+	},
+	"private": true,
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rapaglaz/own-dark-001"
+	},
+	"version": "1.1.32",
+	"engines": {
+		"vscode": "^1.90.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "own-dark-001",
+				"uiTheme": "vs-dark",
+				"path": "./themes/own-dark-001-color-theme.json"
+			}
+		]
+	},
+	"scripts": {
+		"vsce:pack": "vsce pack -o ./",
+		"vsce:build": "vsce pack -o ./builds",
+		"vsce:publish": "vsce publish"
+	},
+	"devDependencies": {
+		"@semantic-release/changelog": "^6.0.0",
+		"@semantic-release/commit-analyzer": "^13.0.0",
+		"@semantic-release/git": "^10.0.0",
+		"@semantic-release/github": "^11.0.0",
+		"@semantic-release/npm": "^12.0.0",
+		"semantic-release": "^24.0.0"
+	},
+	"dependencies": {}
 }

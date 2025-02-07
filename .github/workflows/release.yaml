@@ -1,9 +1,11 @@
+name: Build and Release
+
 on:
   workflow_dispatch:
   push:
     tags:
       - '*.*.*'
-name: Build and Release
+
 jobs:
   build-extension:
     runs-on: ubuntu-latest
@@ -11,10 +13,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Use Node.js 20
+      - name: Use Node.js 22
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
 
       - name: Install dependencies
@@ -27,7 +29,7 @@ jobs:
           mkdir -p builds
           npm run vsce:build
 
-      - name: Release
+      - name: Publish to GitHub
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
@@ -39,7 +41,8 @@ jobs:
         env:
           VSCE_PAT: ${{ secrets.VSCE_PAT }}
         run: |
-          vsce publish
+          # vsce publish
+          echo "vsce publish"
 
       - name: Clean up
         run: rm -rf ./builds

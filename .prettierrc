@@ -1,24 +1,10 @@
 {
-    "arrowParens": "avoid",
-    "bracketSameLine": true,
-    "htmlWhitespaceSensitivity": "strict",
-    "printWidth": 140,
-    "singleAttributePerLine": true,
-    "singleQuote": true,
-    "tabWidth": 4,
-    "trailingComma": "es5",
-    "overrides": [
-        {
-            "files": ["*.json", "*.yml", "*.yaml", "*.md"],
-            "options": {
-                "tabWidth": 2
-            }
-        },
-        {
-            "files": ["*.html"],
-            "options": {
-                "singleQuote": false
-            }
-        }
-    ]
+  "arrowParens": "avoid",
+  "bracketSameLine": true,
+  "htmlWhitespaceSensitivity": "strict",
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": true,
+  "trailingComma": "all"
 }

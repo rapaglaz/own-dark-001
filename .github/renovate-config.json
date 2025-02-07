@@ -1,0 +1,13 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"branchPrefix": "renovate/",
+	"labels": ["dependencies"],
+	"globalExtends": ["config:recommended", "group:semantic-releaseMonorepo"],
+	"dependencyDashboard": true,
+	"dependencyDashboardTitle": "Dependency Dashboard (Self-Hosted)",
+	"gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+	"onboarding": true,
+	"onboardingBranch": "github-renovate/configure",
+	"platform": "github",
+	"repositories": ["rapaglaz/own-dark-001"]
+}
