@@ -13,7 +13,7 @@
 		"type": "git",
 		"url": "https://github.com/rapaglaz/own-dark-001"
 	},
-	"version": "1.1.32",
+	"version": "1.1.31",
 	"engines": {
 		"vscode": "^1.90.0"
 	},
@@ -40,7 +40,8 @@
 		"@semantic-release/git": "^10.0.0",
 		"@semantic-release/github": "^11.0.0",
 		"@semantic-release/npm": "^12.0.0",
+		"@semantic-release/release-notes-generator": "^14.0.3",
+		"conventional-changelog-conventionalcommits": "^8.0.0",
 		"semantic-release": "^24.0.0"
-	},
-	"dependencies": {}
+	}
 }

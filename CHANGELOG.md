@@ -1,10 +1,9 @@
-## [1.1.32](https://github.com/rapaglaz/own-dark-001/compare/1.1.31...1.1.32) (2025-02-09)
+## [1.1.32](https://github.com/rapaglaz/own-dark-001/compare/1.1.31...1.1.32) (2025-02-10)
 
+### Changes
 
-### Bug Fixes
-
-* test patch release ([b8a5947](https://github.com/rapaglaz/own-dark-001/commit/b8a59479f668f9ff8b39097c4519e82b54ce3cea))
-* update renovate and make test release ([499a76a](https://github.com/rapaglaz/own-dark-001/commit/499a76aff28f5739d27442251d4934161e94e85b))
+* improve renovate and sematic-release ([53f4369](https://github.com/rapaglaz/own-dark-001/commit/53f43699b6adbeab98be1f9d33234875954eefb5))
+* test patch release ([5e34056](https://github.com/rapaglaz/own-dark-001/commit/5e340561dac52d35e4aeeb61339547c971956204))
 
 ## 1.1.31
 
