@@ -2,7 +2,7 @@
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"branchPrefix": "renovate/",
 	"labels": ["dependencies"],
-	"globalExtends": ["config:recommended", "group:semantic-releaseMonorepo"],
+	"globalExtends": ["config:best-practices", "group:semantic-releaseMonorepo"],
 	"dependencyDashboard": true,
 	"dependencyDashboardTitle": "Dependency Dashboard (Self-Hosted)",
 	"gitAuthor": "Renovate Bot <bot@renovateapp.com>",
