@@ -11,4 +11,4 @@ See VSCode settings:
 
 ## Screenshots
 
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-3.png?raw=true)
+![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-7.png?raw=true)
