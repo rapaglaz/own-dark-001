@@ -3,6 +3,13 @@
 ### Changes
 
 * improve renovate and sematic-release ([4da1e3b](https://github.com/rapaglaz/own-dark-001/commit/4da1e3b5d3635d672a0c1d44e20a7d3645196520))
+* wrong link in README.md ([e48bd38](https://github.com/rapaglaz/own-dark-001/commit/e48bd38c218a017787425c8d7a621d8e2004b740))
+
+## [1.1.32](https://github.com/rapaglaz/own-dark-001/compare/1.1.31...1.1.32) (2025-02-10)
+
+### Changes
+
+* improve renovate and sematic-release ([4da1e3b](https://github.com/rapaglaz/own-dark-001/commit/4da1e3b5d3635d672a0c1d44e20a7d3645196520))
 * update README.md ([39106b4](https://github.com/rapaglaz/own-dark-001/commit/39106b494e80fe81beef6356f98836ae77378137))
 
 ## [1.1.32](https://github.com/rapaglaz/own-dark-001/compare/1.1.31...1.1.32) (2025-02-10)
