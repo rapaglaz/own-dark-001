@@ -76,9 +76,7 @@ module.exports = {
 		],
 		'@semantic-release/github',
 		{
-			assets: [
-				{ path: 'builds/own-dark-001-*.*.*.vsix', label: `own-dark-001.vsix` },
-			],
+			assets: [{ path: '*.vsix' }],
 		},
 	],
 };
