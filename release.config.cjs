@@ -26,10 +26,6 @@ module.exports = {
 						type: 'style',
 						release: 'patch',
 					},
-					{
-						type: 'chore',
-						release: 'patch',
-					},
 				],
 				parserOpts: {
 					noteKeywords: ['BREAKING CHANGE', 'BREAKING CHANGES', 'BREAKING'],
@@ -45,7 +41,6 @@ module.exports = {
 						{ type: 'feat', section: 'Changes', hidden: false },
 						{ type: 'fix', section: 'Changes', hidden: false },
 						{ type: 'style', section: 'Changes', hidden: false },
-						{ type: 'chore', section: 'Chores', hidden: true },
 					],
 				},
 				parserOpts: {
