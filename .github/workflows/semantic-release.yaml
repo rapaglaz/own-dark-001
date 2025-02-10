@@ -31,17 +31,11 @@ jobs:
           mkdir -p builds
           npm run vsce:build
 
-      - name: Publish extension
-        if: startsWith(github.ref, 'refs/tags/')
-        env:
-          VSCE_PAT: ${{ secrets.VSCE_PAT }}
-        run: |
-          vsce publish
-
       - name: Run semantic-release
+        run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-        run: npx semantic-release
+          VSCE_PAT: ${{ secrets.VSCE_PAT }}
 
       - name: Clean up
         run: rm -rf ./builds

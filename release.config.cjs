@@ -68,6 +68,13 @@ module.exports = {
 					'chore(release): ${nextRelease.version} \n\n${nextRelease.notes}',
 			},
 		],
+		[
+			'semantic-release-vsce',
+			{
+				packageVsix: true,
+				publishPackagePath: 'builds/builds/own-dark-001-*.vsix',
+			},
+		],
 		'@semantic-release/github',
 		{
 			assets: [
