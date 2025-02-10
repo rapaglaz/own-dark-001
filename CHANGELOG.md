@@ -1,3 +1,9 @@
+## [1.1.39](https://github.com/rapaglaz/own-dark-001/compare/1.1.38...1.1.39) (2025-02-10)
+
+### Changes
+
+* update .vscodeignore ([a89d4dd](https://github.com/rapaglaz/own-dark-001/commit/a89d4dd13e672ad97ab42b8dfed1dc6b0f6988f4))
+
 ## [1.1.38](https://github.com/rapaglaz/own-dark-001/compare/1.1.37...1.1.38) (2025-02-10)
 
 ### Changes
