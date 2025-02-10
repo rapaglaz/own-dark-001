@@ -1,3 +1,5 @@
+## [1.1.34](https://github.com/rapaglaz/own-dark-001/compare/1.1.33...1.1.34) (2025-02-10)
+
 ## [1.1.33](https://github.com/rapaglaz/own-dark-001/compare/1.1.32...1.1.33) (2025-02-10)
 
 ### Changes
