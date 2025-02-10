@@ -1,3 +1,9 @@
+## [1.1.35](https://github.com/rapaglaz/own-dark-001/compare/1.1.34...1.1.35) (2025-02-10)
+
+### Changes
+
+* gh assets upload ([#5](https://github.com/rapaglaz/own-dark-001/issues/5)) ([ce27200](https://github.com/rapaglaz/own-dark-001/commit/ce2720022586842c04ddb42560e399acfbbbdc6e))
+
 ## [1.1.34](https://github.com/rapaglaz/own-dark-001/compare/1.1.33...1.1.34) (2025-02-10)
 
 ## [1.1.33](https://github.com/rapaglaz/own-dark-001/compare/1.1.32...1.1.33) (2025-02-10)
