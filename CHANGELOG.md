@@ -1,3 +1,9 @@
+## [1.1.33](https://github.com/rapaglaz/own-dark-001/compare/1.1.32...1.1.33) (2025-02-10)
+
+### Changes
+
+* no-changes release ([0c89650](https://github.com/rapaglaz/own-dark-001/commit/0c89650bcfbe0b94ae770e2d26d49446d232bbac))
+
 ## [1.1.32](https://github.com/rapaglaz/own-dark-001/compare/1.1.31...1.1.32) (2025-02-10)
 
 ### Changes
