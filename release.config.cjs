@@ -72,7 +72,7 @@ module.exports = {
 			'semantic-release-vsce',
 			{
 				packageVsix: true,
-				publish: false,
+				publish: true,
 			},
 		],
 		[

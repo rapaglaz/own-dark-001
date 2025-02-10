@@ -5,7 +5,8 @@ Big thanks for inspiration to authors of these great themes [One Dark Theme](htt
 ## Notes
 
 This theme was primarily designed for setups that utilize a single tab, rather than multiple tabs.
-[workbench.editor.showTabs](vscode://settings/workbench.editor.showTabs)
+(VSCode settings:
+[workbench.editor.showTabs](vscode://settings/workbench.editor.showTabs))
 
 ## Screenshots
 
