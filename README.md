@@ -9,4 +9,4 @@ This theme was primarily designed for setups that utilize a single tab, rather t
 
 ## Screenshots
 
-![Screenshot 3](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-3.png?raw=true)
+![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-3.png?raw=true)
