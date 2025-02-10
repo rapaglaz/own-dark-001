@@ -2,3 +2,11 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+.github/**
+screenshots/**
+.prettierrc
+.gitattributes
+package-lock.json
+package.json
+release.config.js
+renovate.json
