@@ -1,48 +1,50 @@
 {
-	"name": "own-dark-001",
-	"displayName": "own-dark-001",
-	"icon": "./images/logo-5.png",
-	"description": "Own mix of Dark Modern and One Dark's themes",
-	"publisher": "own-themes",
-	"author": {
-		"name": "own-themes"
-	},
-	"private": true,
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/rapaglaz/own-dark-001"
-	},
-	"version": "1.1.39",
-	"engines": {
-		"vscode": "^1.90.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "own-dark-001",
-				"uiTheme": "vs-dark",
-				"path": "./themes/own-dark-001-color-theme.json"
-			}
-		]
-	},
-	"scripts": {
-		"vsce:pack": "vsce pack -o ./",
-		"vsce:build": "vsce pack -o ./builds",
-		"vsce:publish": "vsce publish"
-	},
-	"devDependencies": {
-		"@semantic-release/changelog": "6.0.3",
-		"@semantic-release/commit-analyzer": "13.0.1",
-		"@semantic-release/git": "10.0.1",
-		"@semantic-release/github": "11.0.1",
-		"@semantic-release/npm": "12.0.1",
-		"@semantic-release/release-notes-generator": "14.0.3",
-		"conventional-changelog-conventionalcommits": "8.0.0",
-		"semantic-release": "24.2.2",
-		"semantic-release-vsce": "6.0.6"
-	}
+  "name": "own-dark-001",
+  "displayName": "own-dark-001",
+  "icon": "./images/logo-5.png",
+  "description": "Own mix of Dark Modern and One Dark's themes",
+  "publisher": "own-themes",
+  "author": {
+    "name": "own-themes"
+  },
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rapaglaz/own-dark-001"
+  },
+  "version": "1.1.39",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "own-dark-001",
+        "uiTheme": "vs-dark",
+        "path": "./themes/own-dark-001-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vsce:pack": "vsce pack -o ./",
+    "vsce:build": "vsce pack -o ./builds",
+    "vsce:publish": "vsce publish",
+    "style:write": "prettier --write \"**/*.{css,scss,less,html,js,json,md}\"",
+    "style:check": "prettier --check \"**/*.{css,scss,less,html,js,json,md}\""
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/commit-analyzer": "13.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "11.0.1",
+    "@semantic-release/npm": "12.0.1",
+    "@semantic-release/release-notes-generator": "14.0.3",
+    "conventional-changelog-conventionalcommits": "8.0.0",
+    "semantic-release": "24.2.2",
+    "semantic-release-vsce": "6.0.6"
+  }
 }

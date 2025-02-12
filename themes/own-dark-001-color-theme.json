@@ -791,7 +791,12 @@
   },
   "tokenColors": [
     {
-      "scope": ["meta.embedded", "source.groovy.embedded", "string meta.image.inline.markdown", "variable.legacy.builtin.python"],
+      "scope": [
+        "meta.embedded",
+        "source.groovy.embedded",
+        "string meta.image.inline.markdown",
+        "variable.legacy.builtin.python"
+      ],
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -828,7 +833,12 @@
       }
     },
     {
-      "scope": ["constant.numeric", "variable.other.enummember", "keyword.operator.plus.exponent", "keyword.operator.minus.exponent"],
+      "scope": [
+        "constant.numeric",
+        "variable.other.enummember",
+        "keyword.operator.plus.exponent",
+        "keyword.operator.minus.exponent"
+      ],
       "settings": {
         "foreground": "#B5CEA8"
       }
@@ -1042,7 +1052,12 @@
       }
     },
     {
-      "scope": ["support.type.vendored.property-name", "support.type.property-name", "source.css variable", "source.coffee.embedded"],
+      "scope": [
+        "support.type.vendored.property-name",
+        "support.type.property-name",
+        "source.css variable",
+        "source.coffee.embedded"
+      ],
       "settings": {
         "foreground": "#9CDCFE"
       }
@@ -1089,7 +1104,10 @@
       }
     },
     {
-      "scope": ["punctuation.section.embedded.begin.php", "punctuation.section.embedded.end.php"],
+      "scope": [
+        "punctuation.section.embedded.begin.php",
+        "punctuation.section.embedded.end.php"
+      ],
       "settings": {
         "foreground": "#569CD6"
       }
@@ -1107,7 +1125,11 @@
       }
     },
     {
-      "scope": ["storage.modifier.import.java", "variable.language.wildcard.java", "storage.modifier.package.java"],
+      "scope": [
+        "storage.modifier.import.java",
+        "variable.language.wildcard.java",
+        "storage.modifier.package.java"
+      ],
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -1197,7 +1219,13 @@
       }
     },
     {
-      "scope": ["variable", "meta.definition.variable.name", "support.variable", "entity.name.variable", "constant.other.placeholder"],
+      "scope": [
+        "variable",
+        "meta.definition.variable.name",
+        "support.variable",
+        "entity.name.variable",
+        "constant.other.placeholder"
+      ],
       "settings": {
         "foreground": "#9CDCFE"
       }

@@ -1,13 +1,13 @@
 {
-	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"branchPrefix": "renovate/",
-	"labels": ["dependencies"],
-	"globalExtends": ["config:best-practices", "group:semantic-releaseMonorepo"],
-	"dependencyDashboard": false,
-	"dependencyDashboardTitle": "Dependency Dashboard (Self-Hosted)",
-	"gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-	"onboarding": true,
-	"onboardingBranch": "github-renovate/configure",
-	"platform": "github",
-	"repositories": ["rapaglaz/own-dark-001"]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "branchPrefix": "renovate/",
+  "labels": ["dependencies"],
+  "globalExtends": ["config:best-practices", "group:semantic-releaseMonorepo"],
+  "dependencyDashboard": false,
+  "dependencyDashboardTitle": "Dependency Dashboard (Self-Hosted)",
+  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+  "onboarding": true,
+  "onboardingBranch": "github-renovate/configure",
+  "platform": "github",
+  "repositories": ["rapaglaz/own-dark-001"]
 }
