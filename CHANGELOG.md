@@ -1,3 +1,11 @@
+## [1.1.40](https://github.com/rapaglaz/own-dark-001/compare/1.1.39...1.1.40) (2025-02-24)
+
+### Changes
+
+* update 'editorInlayHint' foreground colors ([375d8de](https://github.com/rapaglaz/own-dark-001/commit/375d8de61338b1d15adf765af043d6f09fafdbac))
+* update comments color ([05b23e5](https://github.com/rapaglaz/own-dark-001/commit/05b23e5746136f80071bf06e2d9d677135eb4e25))
+* update vsce:build script output path ([70fc854](https://github.com/rapaglaz/own-dark-001/commit/70fc854d8a048417d995784196ab3c9699da5dd3))
+
 ## [1.1.39](https://github.com/rapaglaz/own-dark-001/compare/1.1.38...1.1.39) (2025-02-10)
 
 ### Changes
