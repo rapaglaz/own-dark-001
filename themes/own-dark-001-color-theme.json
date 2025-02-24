@@ -822,7 +822,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#5a5a5a",
+        "foreground": "#717E85",
         "fontStyle": "italic"
       }
     },
