@@ -31,7 +31,7 @@
   },
   "scripts": {
     "vsce:pack": "vsce pack -o ./",
-    "vsce:build": "vsce pack -o ./builds",
+    "vsce:build": "vsce pack -o ./",
     "vsce:publish": "vsce publish",
     "style:write": "prettier --write \"**/*.{css,scss,less,html,js,json,md}\"",
     "style:check": "prettier --check \"**/*.{css,scss,less,html,js,json,md}\""
