@@ -7,8 +7,7 @@
   "dependencyDashboardTitle": "Dependency Dashboard",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "rangeStrategy": "bump",
-  "prConcurrentLimit": 5,
-  "prHourlyLimit": 2,
+  "prConcurrentLimit": 7,
   "schedule": ["* 6 * * 6-7"],
   "lockFileMaintenance": {
     "enabled": true
