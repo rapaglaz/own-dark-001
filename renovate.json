@@ -9,7 +9,7 @@
   "rangeStrategy": "bump",
   "prConcurrentLimit": 5,
   "prHourlyLimit": 2,
-  "schedule": ["* 19-22 * * 1-5", "* 0-6 * * 6-7"],
+  "schedule": ["* 6 * * 6-7"],
   "lockFileMaintenance": {
     "enabled": true
   }
