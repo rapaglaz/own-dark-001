@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "branchPrefix": "renovate/",
   "labels": ["dependencies"],
-  "extends": ["config:best-practices"],
+  "extends": ["config:best-practices", ":pinAllExceptPeerDependencies"],
   "dependencyDashboard": false,
   "dependencyDashboardTitle": "Dependency Dashboard",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
