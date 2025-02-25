@@ -8,7 +8,7 @@
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "rangeStrategy": "bump",
   "prConcurrentLimit": 7,
-  "schedule": ["* 6 * * 6-7"],
+  "schedule": ["* 5-6 * * 7"],
   "lockFileMaintenance": {
     "enabled": true
   }
