@@ -5,7 +5,6 @@
   "extends": ["config:best-practices", ":pinAllExceptPeerDependencies"],
   "dependencyDashboard": false,
   "dependencyDashboardTitle": "Dependency Dashboard",
-  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "rangeStrategy": "bump",
   "prConcurrentLimit": 7,
   "schedule": ["* 5-6 * * 7"],
