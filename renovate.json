@@ -10,5 +10,14 @@
   "schedule": ["* 5-6 * * 7"],
   "lockFileMaintenance": {
     "enabled": true
-  }
+  },
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["patch"],
+      "matchCurrentVersion": "!/^0/",
+      "automerge": true,
+      "labels": ["automerge"],
+      "commitMessagePrefix": "chore(automerge-deps):"
+    }
+  ]
 }
