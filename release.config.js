@@ -1,5 +1,3 @@
-const { publish } = require('@vscode/vsce');
-
 module.exports = {
   $schema: 'https://semantic-release.org/schema/semantic-release.schema.json',
   branches: ['main'],
@@ -103,13 +101,6 @@ module.exports = {
       },
     ],
     [
-      '@semantic-release/git',
-      {
-        assets: ['package.json', 'CHANGELOG.md'],
-        message: 'chore(release): ${nextRelease.version}\n\n${nextRelease.notes}',
-      },
-    ],
-    [
       'semantic-release-vsce',
       {
         packageVsix: true,
@@ -119,6 +110,8 @@ module.exports = {
       '@semantic-release/github',
       {
         assets: '*.vsix',
+        releaseNameTemplate: '<%= nextRelease.version %>',
+        releaseBodyTemplate: '<%= nextRelease.notes %>',
       },
     ],
   ],
