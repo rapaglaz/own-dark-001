@@ -1,0 +1,24 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "branchPrefix": "renovate/",
+  "labels": ["dependencies"],
+  "extends": ["config:best-practices", ":pinAllExceptPeerDependencies"],
+  "dependencyDashboard": false,
+  "dependencyDashboardTitle": "Dependency Dashboard",
+  "rangeStrategy": "bump",
+  "ignoreTests": true,
+  "prConcurrentLimit": 7,
+  "schedule": ["* 5-6 * * 7"],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["patch"],
+      "matchCurrentVersion": "!/^0/",
+      "automerge": true,
+      "labels": ["automerge"],
+      "commitMessagePrefix": "chore(automerge-deps):"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# https://editorconfig.org
+root = true
+
+# --------- Default settings for all files ---------
+[*]
+indent_style = space
+indent_size = 2
+tab_width = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+max_line_length = 100
+# Uncomment if you want BOM for UTF-8 files
+# utf_bom = true
+
+# --------- Markdown and text files ---------
+[*.md, *.mdx, *.txt]
+trim_trailing_whitespace = false
+max_line_length = off

@@ -1,0 +1,51 @@
+{
+  "name": "own-dark-001",
+  "displayName": "own-dark-001",
+  "icon": "./images/logo-5.png",
+  "description": "Own mix of Dark Modern and One Dark's themes",
+  "publisher": "own-themes",
+  "author": {
+    "name": "own-themes"
+  },
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rapaglaz/own-dark-001"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "own-dark-001",
+        "uiTheme": "vs-dark",
+        "path": "./themes/own-dark-001-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vsce:pack": "vsce pack -o ./",
+    "vsce:build": "vsce pack -o ./",
+    "vsce:publish": "vsce publish",
+    "style:write": "prettier --write .",
+    "style:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/commit-analyzer": "13.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "11.0.2",
+    "@semantic-release/npm": "12.0.1",
+    "@vscode/vsce": "3.3.2",
+    "conventional-changelog-conventionalcommits": "8.0.0",
+    "prettier": "3.5.3",
+    "semantic-release": "24.2.3",
+    "semantic-release-vsce": "6.0.7"
+  }
+}
