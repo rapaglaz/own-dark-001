@@ -112,6 +112,7 @@ module.exports = {
         assets: '*.vsix',
         releaseNameTemplate: '<%= nextRelease.version %>',
         releaseBodyTemplate: '<%= nextRelease.notes %>',
+        releasedLabels: false,
       },
     ],
   ],
