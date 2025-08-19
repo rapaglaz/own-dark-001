@@ -113,6 +113,7 @@ module.exports = {
         releaseNameTemplate: '<%= nextRelease.version %>',
         releaseBodyTemplate: '<%= nextRelease.notes %>',
         releasedLabels: false,
+        successCommentCondition: "<% return issue.user.type !== 'Bot'; %>",
       },
     ],
   ],
