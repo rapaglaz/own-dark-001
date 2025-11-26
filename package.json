@@ -46,6 +46,6 @@
     "conventional-changelog-conventionalcommits": "9.1.0",
     "prettier": "3.6.2",
     "semantic-release": "25.0.2",
-    "semantic-release-vsce": "6.0.13"
+    "semantic-release-vsce": "6.0.16"
   }
 }
