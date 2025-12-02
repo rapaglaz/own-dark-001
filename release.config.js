@@ -1,6 +1,7 @@
 module.exports = {
   $schema: 'https://semantic-release.org/schema/semantic-release.schema.json',
   branches: ['main'],
+  repositoryUrl: 'https://github.com/rapaglaz/own-dark-001',
   plugins: [
     [
       '@semantic-release/commit-analyzer',
@@ -104,6 +105,13 @@ module.exports = {
       'semantic-release-vsce',
       {
         packageVsix: true,
+      },
+    ],
+    [
+      '@semantic-release/git',
+      {
+        assets: ['CHANGELOG.md', 'package.json'],
+        message: 'chore(release): ${nextRelease.version} [skip ci]\\n\\n${nextRelease.notes}',
       },
     ],
     [
