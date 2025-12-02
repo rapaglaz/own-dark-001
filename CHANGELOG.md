@@ -1,3 +1,9 @@
+## [0.2.1](https://github.com/rapaglaz/own-dark-001/compare/v0.2.0...v0.2.1) (2025-12-02)
+
+### Changes
+
+* refine syntax highlighting ([1197e9f](https://github.com/rapaglaz/own-dark-001/commit/1197e9f161d4897d4a067221e25b0bb4272a6987)), closes [#E6D3A3](https://github.com/rapaglaz/own-dark-001/issues/E6D3A3) [#6fb1c0](https://github.com/rapaglaz/own-dark-001/issues/6fb1c0) [#8FBCBB](https://github.com/rapaglaz/own-dark-001/issues/8FBCBB) [#88C0D0](https://github.com/rapaglaz/own-dark-001/issues/88C0D0)
+
 ## [0.2.0](https://github.com/rapaglaz/own-dark-001/compare/v0.1.7...v0.2.0) (2025-12-02)
 
 ### Changes
