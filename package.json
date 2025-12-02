@@ -17,9 +17,7 @@
   "engines": {
     "vscode": "^1.97.2"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
@@ -33,10 +31,11 @@
     "vsce:pack": "vsce pack -o ./",
     "vsce:build": "vsce pack -o ./",
     "vsce:publish": "vsce publish",
-    "style:write": "prettier --write .",
-    "style:check": "prettier --check ."
+    "style:write": "biome format --write .",
+    "style:check": "biome check ."
   },
   "devDependencies": {
+    "@biomejs/biome": "2.3.8",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/commit-analyzer": "13.0.1",
     "@semantic-release/git": "10.0.1",
@@ -44,7 +43,6 @@
     "@semantic-release/npm": "13.1.2",
     "@vscode/vsce": "3.7.1",
     "conventional-changelog-conventionalcommits": "9.1.0",
-    "prettier": "3.6.2",
     "semantic-release": "25.0.2",
     "semantic-release-vsce": "6.0.18"
   }
