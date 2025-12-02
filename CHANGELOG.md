@@ -1,3 +1,9 @@
+## [0.2.2](https://github.com/rapaglaz/own-dark-001/compare/v0.2.1...v0.2.2) (2025-12-02)
+
+### Changes
+
+* clean up the color theme JSON file ([a511a69](https://github.com/rapaglaz/own-dark-001/commit/a511a69ebad01fcbd9013e001a3090be9bfa5ef9))
+
 ## [0.2.1](https://github.com/rapaglaz/own-dark-001/compare/v0.2.0...v0.2.1) (2025-12-02)
 
 ### Changes
