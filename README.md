@@ -12,5 +12,6 @@ The UI foundation is inspired by **VS Code's Dark Modern** and the elegant simpl
 
 ### Screenshots
 
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-20.png?raw=true)
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-21.png?raw=true)
+![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-22.png?raw=true)
+
+![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-23.png?raw=true)
