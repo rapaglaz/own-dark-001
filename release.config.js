@@ -1,6 +1,7 @@
 module.exports = {
   $schema: 'https://semantic-release.org/schema/semantic-release.schema.json',
   branches: ['main'],
+  repositoryUrl: 'https://github.com/rapaglaz/own-dark-001',
   plugins: [
     [
       '@semantic-release/commit-analyzer',
