@@ -8,7 +8,6 @@ The UI foundation is inspired by **VS Code's Dark Modern** and the elegant simpl
 - Calm, balanced, and low-contrast color scheme for focused work
 - Syntax highlighting derived from the **Nord** palette, softened with subtle pastel accents
 - Familiar UI tones based on **Dark Modern**, enhanced with One Dark–style polish
-- Clean, quiet visuals ideal for Angular, TypeScript, HTML, JSON, and template-heavy projects
 
 ### Screenshots
 

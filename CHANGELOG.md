@@ -2,8 +2,7 @@
 
 ### Changes
 
-* optimize color palette ([8f383d3](https://github.com/rapaglaz/own-dark-001/commit/8f383d3336e5138d87aee958dd61eabf9f0182f1)), closes [#7EC699](https://github.com/rapaglaz/own-dark-001/issues/7EC699) [#56B6C2](https://github.com/rapaglaz/own-dark-001/issues/56B6C2) [#ABB2BF](https://github.com/rapaglaz/own-dark-001/issues/ABB2BF) [#D19A66](https://github.com/rapaglaz/own-dark-001/issues/D19A66)
-
+* optimize color palette ([8f383d3](https://github.com/rapaglaz/own-dark-001/commit/8f383d3336e5138d87aee958dd61eabf9f0182f1))
 ## [0.2.2](https://github.com/rapaglaz/own-dark-001/compare/v0.2.1...v0.2.2) (2025-12-02)
 
 ### Changes
@@ -14,8 +13,7 @@
 
 ### Changes
 
-* refine syntax highlighting ([1197e9f](https://github.com/rapaglaz/own-dark-001/commit/1197e9f161d4897d4a067221e25b0bb4272a6987)), closes [#E6D3A3](https://github.com/rapaglaz/own-dark-001/issues/E6D3A3) [#6fb1c0](https://github.com/rapaglaz/own-dark-001/issues/6fb1c0) [#8FBCBB](https://github.com/rapaglaz/own-dark-001/issues/8FBCBB) [#88C0D0](https://github.com/rapaglaz/own-dark-001/issues/88C0D0)
-
+* refine syntax highlighting ([1197e9f](https://github.com/rapaglaz/own-dark-001/commit/1197e9f161d4897d4a067221e25b0bb4272a6987))
 ## [0.2.0](https://github.com/rapaglaz/own-dark-001/compare/v0.1.7...v0.2.0) (2025-12-02)
 
 ### Changes
