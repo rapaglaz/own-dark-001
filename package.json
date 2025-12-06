@@ -13,11 +13,13 @@
     "type": "git",
     "url": "https://github.com/rapaglaz/own-dark-001"
   },
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.97.2"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {

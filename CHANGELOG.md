@@ -1,3 +1,9 @@
+## [0.2.3](https://github.com/rapaglaz/own-dark-001/compare/v0.2.2...v0.2.3) (2025-12-06)
+
+### Changes
+
+* optimize color palette ([8f383d3](https://github.com/rapaglaz/own-dark-001/commit/8f383d3336e5138d87aee958dd61eabf9f0182f1)), closes [#7EC699](https://github.com/rapaglaz/own-dark-001/issues/7EC699) [#56B6C2](https://github.com/rapaglaz/own-dark-001/issues/56B6C2) [#ABB2BF](https://github.com/rapaglaz/own-dark-001/issues/ABB2BF) [#D19A66](https://github.com/rapaglaz/own-dark-001/issues/D19A66)
+
 ## [0.2.2](https://github.com/rapaglaz/own-dark-001/compare/v0.2.1...v0.2.2) (2025-12-02)
 
 ### Changes
