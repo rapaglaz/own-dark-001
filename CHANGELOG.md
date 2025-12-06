@@ -1,3 +1,9 @@
+## [0.2.4](https://github.com/rapaglaz/own-dark-001/compare/v0.2.3...v0.2.4) (2025-12-06)
+
+### Changes
+
+* update README and CHANGELOG ([6ee7f1f](https://github.com/rapaglaz/own-dark-001/commit/6ee7f1ffbbb5684aa18f73f04b4d4fa650db5728))
+
 ## [0.2.3](https://github.com/rapaglaz/own-dark-001/compare/v0.2.2...v0.2.3) (2025-12-06)
 
 ### Changes
