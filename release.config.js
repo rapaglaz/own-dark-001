@@ -26,11 +26,11 @@ module.exports = {
           },
           {
             type: 'docs',
-            release: false,
+            release: 'patch',
           },
           {
             type: 'refactor',
-            release: false,
+            release: 'patch',
           },
           {
             type: 'test',
@@ -67,7 +67,7 @@ module.exports = {
             },
             {
               type: 'docs',
-              hidden: true,
+              section: 'Changes',
             },
             {
               type: 'chore',
@@ -75,7 +75,7 @@ module.exports = {
             },
             {
               type: 'refactor',
-              hidden: true,
+              section: 'Changes',
             },
             {
               type: 'ci',
