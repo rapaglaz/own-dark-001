@@ -173,7 +173,7 @@
     "editorGroup.dropBackground": "#53595d80",
     "editorGroup.dropIntoPromptBackground": "#1c2025",
     "editorGroup.dropIntoPromptForeground": "#cccccc",
-    "editorGroupHeader.border": "#393c40",
+    "editorGroupHeader.border": "#393c4000",
     "editorGroupHeader.noTabsBackground": "#1c2025",
     "editorGroupHeader.tabsBackground": "#1c2025",
     "editorGroupHeader.tabsBorder": "#393c4000",
