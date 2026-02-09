@@ -1,3 +1,9 @@
+## [0.3.4](https://github.com/rapaglaz/own-dark-001/compare/v0.3.3...v0.3.4) (2026-02-09)
+
+### Changes
+
+* add editor bracket match foreground color ([9462aa6](https://github.com/rapaglaz/own-dark-001/commit/9462aa65b04a3fdad8ef46568386c98845457742))
+
 ## [0.3.3](https://github.com/rapaglaz/own-dark-001/compare/v0.3.2...v0.3.3) (2025-12-29)
 
 ### Changes
