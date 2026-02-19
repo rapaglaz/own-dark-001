@@ -48,7 +48,7 @@
     "@semantic-release/npm": "13.1.4",
     "@vscode/vsce": "3.7.1",
     "conventional-changelog-conventionalcommits": "9.1.0",
-    "lefthook": "2.1.0",
+    "lefthook": "2.1.1",
     "lint-staged": "16.2.7",
     "semantic-release": "25.0.3",
     "semantic-release-vsce": "6.0.23"
