@@ -30,9 +30,7 @@
     ]
   },
   "scripts": {
-    "vsce:pack": "vsce pack -o ./",
-    "vsce:build": "vsce pack -o ./",
-    "vsce:publish": "vsce publish",
+    "release": "release-it",
     "biome:write": "biome format --write .",
     "biome:check": "biome check .",
     "prepare": "lefthook install"
@@ -41,16 +39,10 @@
     "@biomejs/biome": "2.4.4",
     "@commitlint/cli": "20.4.2",
     "@commitlint/config-conventional": "20.4.2",
-    "@semantic-release/changelog": "6.0.3",
-    "@semantic-release/commit-analyzer": "13.0.1",
-    "@semantic-release/git": "10.0.1",
-    "@semantic-release/github": "12.0.6",
-    "@semantic-release/npm": "13.1.4",
+    "@release-it/conventional-changelog": "^10.0.5",
     "@vscode/vsce": "3.7.1",
-    "conventional-changelog-conventionalcommits": "9.1.0",
     "lefthook": "2.1.1",
     "lint-staged": "16.2.7",
-    "semantic-release": "25.0.3",
-    "semantic-release-vsce": "6.0.24"
+    "release-it": "^19.2.4"
   }
 }
