@@ -18,7 +18,7 @@ importers:
         specifier: 20.4.2
         version: 20.4.2
       '@release-it/conventional-changelog':
-        specifier: ^10.0.5
+        specifier: 10.0.5
         version: 10.0.5(conventional-commits-filter@5.0.0)(conventional-commits-parser@6.2.1)(release-it@19.2.4(@types/node@22.19.13))
       '@vscode/vsce':
         specifier: 3.7.1
@@ -30,7 +30,7 @@ importers:
         specifier: 16.2.7
         version: 16.2.7
       release-it:
-        specifier: ^19.2.4
+        specifier: 19.2.4
         version: 19.2.4(@types/node@22.19.13)
 
 packages:
