@@ -50,7 +50,9 @@
           }
         ]
       },
-      "infile": "CHANGELOG.md"
+      "infile": "CHANGELOG.md",
+      "ignoreRecommendedBump": false,
+      "strictSemVer": true
     }
   }
 }
