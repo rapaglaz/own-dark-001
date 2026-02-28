@@ -1,0 +1,56 @@
+{
+  "$schema": "https://unpkg.com/release-it/schema/release-it.json",
+  "git": {
+    "commitMessage": "chore(release): ${version} [skip ci]\n\n${changelog}",
+    "tagName": "v${version}",
+    "push": true,
+    "commit": true,
+    "tag": true,
+    "requireCleanWorkingDir": true,
+    "requireBranch": "main"
+  },
+  "github": {
+    "release": true,
+    "releaseName": "${version}",
+    "assets": [
+      "*.vsix"
+    ]
+  },
+  "npm": {
+    "publish": false
+  },
+  "hooks": {
+    "after:git:release": "npx @vscode/vsce package --no-dependencies",
+    "after:release": "npx @vscode/vsce publish"
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": {
+        "name": "conventionalcommits",
+        "types": [
+          {
+            "type": "feat",
+            "section": "Changes"
+          },
+          {
+            "type": "fix",
+            "section": "Changes"
+          },
+          {
+            "type": "style",
+            "section": "Changes"
+          },
+          {
+            "type": "docs",
+            "section": "Changes"
+          },
+          {
+            "type": "refactor",
+            "section": "Changes"
+          }
+        ]
+      },
+      "infile": "CHANGELOG.md"
+    }
+  }
+}
