@@ -44,6 +44,6 @@
     "@vscode/vsce": "3.9.1",
     "lefthook": "2.1.6",
     "lint-staged": "16.4.0",
-    "release-it": "19.2.4"
+    "release-it": "20.0.1"
   }
 }
