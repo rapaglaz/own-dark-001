@@ -31,7 +31,6 @@
     ]
   },
   "scripts": {
-    "release": "release-it",
     "biome:write": "biome format --write .",
     "biome:check": "biome check .",
     "prepare": "lefthook install"
@@ -40,10 +39,16 @@
     "@biomejs/biome": "2.4.14",
     "@commitlint/cli": "20.5.3",
     "@commitlint/config-conventional": "20.5.3",
-    "@release-it/conventional-changelog": "10.0.6",
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/commit-analyzer": "13.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "12.0.6",
+    "@semantic-release/npm": "13.1.4",
     "@vscode/vsce": "3.9.1",
+    "conventional-changelog-conventionalcommits": "9.1.0",
     "lefthook": "2.1.6",
     "lint-staged": "16.4.0",
-    "release-it": "19.2.4"
+    "semantic-release": "25.0.3",
+    "semantic-release-vsce": "6.0.24"
   }
 }
