@@ -1,3 +1,7 @@
+allowBuilds:
+  '@vscode/vsce-sign': true
+  keytar: true
+  lefthook: true
 onlyBuiltDependencies:
   - '@vscode/vsce-sign'
   - keytar

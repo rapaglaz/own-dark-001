@@ -31,6 +31,9 @@
     ]
   },
   "scripts": {
+    "vsce:pack": "vsce pack -o ./",
+    "vsce:build": "vsce pack -o ./",
+    "vsce:publish": "vsce publish",
     "biome:write": "biome format --write .",
     "biome:check": "biome check .",
     "prepare": "lefthook install"
