@@ -14,3 +14,9 @@ release.config.js
 renovate.json
 screenshots/**
 vsc-extension-quickstart.md
+biome.json
+commitlint.config.js
+lefthook.yml
+pnpm-lock.yaml
+pnpm-workspace.yaml
+.claude/**
