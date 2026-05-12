@@ -20,3 +20,4 @@ lefthook.yml
 pnpm-lock.yaml
 pnpm-workspace.yaml
 .claude/**
+.lintstagedrc.js
