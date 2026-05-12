@@ -1,3 +1,9 @@
+## [0.3.6](https://github.com/rapaglaz/own-dark-001/compare/v0.3.5...v0.3.6) (2026-05-12)
+
+### Changes
+
+* **theme:** update colors for syntax highlighting ([e9cb479](https://github.com/rapaglaz/own-dark-001/commit/e9cb4791598e26fa2263748e1b3186e0a1cdf30d))
+
 ## [0.3.5](https://github.com/rapaglaz/own-dark-001/compare/v0.3.4...v0.3.5) (2026-05-09)
 
 ### Changes
