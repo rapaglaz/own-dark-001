@@ -680,11 +680,11 @@
     {
       "scope": [
         "comment",
-        "punctuation.definition.comment",
-        "string.comment"
+        "comment.block",
+        "comment.line"
       ],
       "settings": {
-        "foreground": "#7A7A8E",
+        "foreground": "#65728a",
         "fontStyle": "italic"
       }
     },
@@ -695,7 +695,7 @@
         "keyword.other.directive.using"
       ],
       "settings": {
-        "foreground": "#CDA4C5"
+        "foreground": "#D29FC8"
       }
     },
     {
@@ -752,7 +752,7 @@
         "keyword.operator.noexcept"
       ],
       "settings": {
-        "foreground": "#B0C3D8"
+        "foreground": "#80919F"
       }
     },
     {
@@ -777,12 +777,11 @@
     {
       "scope": [
         "constant.numeric",
-        "keyword.operator.plus.exponent",
-        "keyword.operator.minus.exponent",
-        "meta.preprocessor.numeric"
+        "constant.numeric.decimal",
+        "constant.numeric.integer"
       ],
       "settings": {
-        "foreground": "#6ABFDB"
+        "foreground": "#D08770"
       }
     },
     {
@@ -919,47 +918,14 @@
     },
     {
       "scope": [
+        "entity.name.type.class",
         "entity.name.type",
-        "entity.name.class",
-        "entity.name.namespace",
-        "entity.name.scope-resolution",
-        "entity.other.attribute",
-        "entity.other.inherited-class",
-        "support.class",
-        "support.type",
-        "storage.type.numeric.go",
-        "storage.type.byte.go",
-        "storage.type.boolean.go",
-        "storage.type.string.go",
-        "storage.type.uintptr.go",
-        "storage.type.error.go",
-        "storage.type.rune.go",
-        "storage.type.cs",
-        "storage.type.generic.cs",
-        "storage.type.modifier.cs",
-        "storage.type.variable.cs",
-        "storage.type.annotation.java",
-        "storage.type.generic.java",
-        "storage.type.object.array.java",
-        "storage.type.primitive.array.java",
-        "storage.type.primitive.java",
-        "storage.type.token.java",
-        "storage.type.groovy",
-        "storage.type.annotation.groovy",
-        "storage.type.parameters.groovy",
-        "storage.type.generic.groovy",
-        "storage.type.object.array.groovy",
-        "storage.type.primitive.array.groovy",
-        "storage.type.primitive.groovy",
-        "meta.type.cast.expr",
-        "meta.type.new.expr",
-        "support.constant.math",
-        "support.constant.dom",
-        "support.constant.json",
-        "punctuation.separator.namespace.ruby"
+        "entity.name.type.interface",
+        "entity.name.type.alias",
+        "support.class"
       ],
       "settings": {
-        "foreground": "#6ABFDB"
+        "foreground": "#CBC9C2"
       }
     },
     {
@@ -977,14 +943,17 @@
     },
     {
       "scope": [
-        "entity.name.function.decorator",
+        "meta.decorator",
+        "meta.decorator punctuation.decorator",
         "meta.decorator entity.name.function",
         "meta.decorator entity.name.type",
+        "meta.decorator variable.other.readwrite",
+        "entity.name.function.decorator",
         "punctuation.decorator"
       ],
       "settings": {
-        "foreground": "#F3B285",
-        "fontStyle": "italic"
+        "foreground": "#D08770",
+        "fontStyle": ""
       }
     },
     {
