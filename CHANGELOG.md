@@ -1,3 +1,9 @@
+## [0.3.7](https://github.com/rapaglaz/own-dark-001/compare/v0.3.6...v0.3.7) (2026-05-14)
+
+### Changes
+
+* **theme:** update breadcrumb colors ([a88ca4a](https://github.com/rapaglaz/own-dark-001/commit/a88ca4a8436616e10aa6a23e225d22419989ccb8))
+
 ## [0.3.6](https://github.com/rapaglaz/own-dark-001/compare/v0.3.5...v0.3.6) (2026-05-12)
 
 ### Changes
