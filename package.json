@@ -8,7 +8,7 @@
     "name": "own-themes"
   },
   "private": true,
-  "packageManager": "pnpm@11.1.1",
+  "packageManager": "pnpm@11.1.2",
   "license": "MIT",
   "repository": {
     "type": "git",
