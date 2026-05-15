@@ -1,3 +1,9 @@
+## [0.3.8](https://github.com/rapaglaz/own-dark-001/compare/v0.3.7...v0.3.8) (2026-05-15)
+
+### Changes
+
+* **theme:** update title bar active foreground color ([#192](https://github.com/rapaglaz/own-dark-001/issues/192)) ([98d5f21](https://github.com/rapaglaz/own-dark-001/commit/98d5f2144d6e64c4e662808bc2552b535d3f37ad))
+
 ## [0.3.7](https://github.com/rapaglaz/own-dark-001/compare/v0.3.6...v0.3.7) (2026-05-14)
 
 ### Changes
