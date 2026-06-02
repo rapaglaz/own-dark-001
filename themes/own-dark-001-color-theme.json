@@ -567,7 +567,7 @@
     "symbolIcon.unitForeground": "#cccccc",
     "symbolIcon.variableForeground": "#75beff",
     "tab.activeBackground": "#3e8a9717",
-    "tab.activeBorder": "#3e8a9723",
+    "tab.activeBorder": "#393c4051",
     "tab.activeBorderTop": "#3e8a9761",
     "tab.activeForeground": "#dcdcdc",
     "tab.activeModifiedBorder": "#3e8a9751",
