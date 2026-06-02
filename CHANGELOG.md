@@ -1,3 +1,9 @@
+## [0.3.10](https://github.com/rapaglaz/own-dark-001/compare/v0.3.9...v0.3.10) (2026-06-02)
+
+### Changes
+
+* **tabs:** improve tabs colors ([ffb5ee0](https://github.com/rapaglaz/own-dark-001/commit/ffb5ee0e8a11eca752a73efb60ad8944a8b006cf))
+
 ## [0.3.9](https://github.com/rapaglaz/own-dark-001/compare/v0.3.8...v0.3.9) (2026-06-02)
 
 ### Changes
