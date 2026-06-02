@@ -1,3 +1,10 @@
+## [0.3.9](https://github.com/rapaglaz/own-dark-001/compare/v0.3.8...v0.3.9) (2026-06-02)
+
+### Changes
+
+* **tabs:** update active and hover tab colors ([f0024c0](https://github.com/rapaglaz/own-dark-001/commit/f0024c04b930d303c359742209c256b879514d98))
+* **tabs:** update active tab border color ([3a393c0](https://github.com/rapaglaz/own-dark-001/commit/3a393c0a2804b6a685448ee631b005f66aac5932))
+
 ## [0.3.8](https://github.com/rapaglaz/own-dark-001/compare/v0.3.7...v0.3.8) (2026-05-15)
 
 ### Changes
