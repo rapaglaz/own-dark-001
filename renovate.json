@@ -1,54 +1,37 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:best-practices",
-    ":pinAllExceptPeerDependencies"
-  ],
+  "extends": ["config:best-practices", ":pinAllExceptPeerDependencies"],
   "dependencyDashboardTitle": "Dependency Dashboard",
-  "dependencyDashboardLabels": [
-    "dependencies"
-  ],
+  "dependencyDashboardLabels": ["dependencies"],
   "dependencyDashboardAutoclose": true,
   "rangeStrategy": "bump",
   "prConcurrentLimit": 10,
   "prHourlyLimit": 6,
   "lockFileMaintenance": {
     "enabled": true,
-    "schedule": [
-      "before 3am on Monday"
-    ]
+    "schedule": ["before 3am on Monday"]
   },
   "vulnerabilityAlerts": {
     "enabled": true,
-    "labels": [
-      "security"
-    ],
-    "schedule": [
-      "at any time"
-    ]
+    "labels": ["security"],
+    "schedule": ["at any time"]
   },
   "packageRules": [
     {
       "description": "Require approval for major updates",
-      "matchUpdateTypes": [
-        "major"
-      ],
+      "matchUpdateTypes": ["major"],
       "dependencyDashboardApproval": true
     },
     {
       "description": "Create PR for minor updates",
-      "matchUpdateTypes": [
-        "minor"
-      ],
+      "matchUpdateTypes": ["minor"],
       "matchCurrentVersion": "!/^0/",
       "automerge": false,
       "minimumReleaseAge": "3 days"
     },
     {
       "description": "Automerge patch updates for stable versions",
-      "matchUpdateTypes": [
-        "patch"
-      ],
+      "matchUpdateTypes": ["patch"],
       "matchCurrentVersion": "!/^0/",
       "automerge": true,
       "automergeType": "branch",
@@ -57,22 +40,13 @@
     {
       "description": "Require approval for unstable versions (0.x)",
       "matchCurrentVersion": "/^0/",
-      "matchUpdateTypes": [
-        "minor",
-        "patch"
-      ],
+      "matchUpdateTypes": ["minor", "patch"],
       "dependencyDashboardApproval": true,
-      "labels": [
-        "unstable-version"
-      ]
+      "labels": ["unstable-version"]
     },
     {
       "description": "High priority for security vulnerabilities",
-      "matchUpdateTypes": [
-        "major",
-        "minor",
-        "patch"
-      ],
+      "matchUpdateTypes": ["major", "minor", "patch"],
       "isVulnerabilityAlert": true,
       "prPriority": 10
     }
