@@ -28,7 +28,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Quality check
-        run: pnpm run biome:check
+        run: pnpm run format:check
 
       - name: Execute release
         env:
