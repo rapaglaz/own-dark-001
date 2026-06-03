@@ -1,3 +1,3 @@
 module.exports = {
-  '*.{js,json}': ['biome lint', 'biome format --write'],
+  '*.{js,json}': ['prettier --write'],
 };
