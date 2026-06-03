@@ -1,3 +1,9 @@
+## [0.3.11](https://github.com/rapaglaz/own-dark-001/compare/v0.3.10...v0.3.11) (2026-06-03)
+
+### Changes
+
+* **theme:** imptove token scopes ([44fa7f5](https://github.com/rapaglaz/own-dark-001/commit/44fa7f53e2b41b557b2a40f7648e5c4289807e88))
+
 ## [0.3.10](https://github.com/rapaglaz/own-dark-001/compare/v0.3.9...v0.3.10) (2026-06-02)
 
 ### Changes
