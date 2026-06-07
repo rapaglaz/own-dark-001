@@ -685,6 +685,18 @@
       }
     },
     {
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.export",
+        "keyword.control.from",
+        "keyword.control.as",
+        "keyword.control.default"
+      ],
+      "settings": {
+        "foreground": "#9D89B0"
+      }
+    },
+    {
       "scope": ["keyword.control", "keyword.other.using", "keyword.other.directive.using"],
       "settings": {
         "foreground": "#D29FC8"
@@ -757,7 +769,7 @@
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#52B4C8"
+        "foreground": "#6ABFDB"
       }
     },
     {
@@ -919,7 +931,7 @@
         "punctuation.decorator"
       ],
       "settings": {
-        "foreground": "#D08770",
+        "foreground": "#C97B5A",
         "fontStyle": ""
       }
     },
@@ -963,19 +975,19 @@
         "meta.function.parameters variable"
       ],
       "settings": {
-        "foreground": "#CBC9C2"
+        "foreground": "#C8B89A"
       }
     },
     {
       "scope": "meta.object-literal.key",
       "settings": {
-        "foreground": "#A8B8CC"
+        "foreground": "#9AAABE"
       }
     },
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#81A1C1"
+        "foreground": "#88C0D0"
       }
     },
     {
@@ -1178,7 +1190,6 @@
     {
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#81A1C1",
         "fontStyle": "bold"
       }
     },
@@ -1539,7 +1550,7 @@
     "typeParameter": "#CBC9C2",
     "type": "#CBC9C2",
     "type.defaultLibrary": "#81A1C1",
-    "parameter": "#CBC9C2",
+    "parameter": "#C8B89A",
     "variable": "#CBC9C2",
     "variable.readonly": "#6ABFDB",
     "variable.readonly.defaultLibrary": "#81A1C1",
@@ -1548,7 +1559,7 @@
     "property.readonly": "#6ABFDB",
     "property.static": "#9AAABE",
     "enumMember": "#6ABFDB",
-    "decorator": "#D08770",
+    "decorator": "#C97B5A",
     "event": "#F3B285",
     "function": "#F3B285",
     "function.defaultLibrary": "#F3B285",
@@ -1591,7 +1602,7 @@
     "generic": "#CBC9C2",
     "typeAlias": "#CBC9C2",
     "union": "#CBC9C2",
-    "boolean": "#81A1C1",
+    "boolean": "#6ABFDB",
     "*.deprecated": {
       "strikethrough": true
     },
