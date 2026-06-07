@@ -738,7 +738,7 @@
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#80919F"
+        "foreground": "#A09880"
       }
     },
     {
