@@ -1,3 +1,9 @@
+## [0.3.14](https://github.com/rapaglaz/own-dark-001/compare/v0.3.13...v0.3.14) (2026-06-08)
+
+### Changes
+
+* **theme:** refine YAML and variable token colors ([172f467](https://github.com/rapaglaz/own-dark-001/commit/172f46715b4f0da64a536717ca9412d6bde12746)), closes [#8aaec8](https://github.com/rapaglaz/own-dark-001/issues/8aaec8) [#9FBDD0](https://github.com/rapaglaz/own-dark-001/issues/9FBDD0) [#C6C4BE](https://github.com/rapaglaz/own-dark-001/issues/C6C4BE) [#D0CEC8](https://github.com/rapaglaz/own-dark-001/issues/D0CEC8) [#CBC9C2](https://github.com/rapaglaz/own-dark-001/issues/CBC9C2) [#C6C4BE](https://github.com/rapaglaz/own-dark-001/issues/C6C4BE) [#abb2bf](https://github.com/rapaglaz/own-dark-001/issues/abb2bf)
+
 ## [0.3.13](https://github.com/rapaglaz/own-dark-001/compare/v0.3.12...v0.3.13) (2026-06-08)
 
 ### Changes
