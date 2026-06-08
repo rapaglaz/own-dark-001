@@ -1,32 +1,26 @@
-## Own Dark 001
+# Own Dark 001
 
-A sleek, minimalist dark theme designed for clarity, comfort, and long coding sessions.
-The UI foundation is inspired by **VS Code's Dark Modern** and the elegant simplicity of **One Dark**, while the syntax highlighting is built on a refined, pastel interpretation of the **Nord** color palette.
+A dark theme I built because I couldn't find one I actually liked.
+UI based on **Dark Modern**, syntax on **Nord** — softened with pastel accents.
 
-### Features
+## Install
 
-- Calm, balanced, and low-contrast color scheme for focused work
-- Syntax highlighting derived from the **Nord** palette, softened with subtle pastel accents
-- Familiar UI tones based on **Dark Modern**, enhanced with One Dark–style polish
+[VS Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=own-themes.own-dark-001)
 
-### Screenshots
+## Screenshots
 
-##### `Typescript`
+##### TypeScript
 
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-40.png?raw=true)
+![TypeScript](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-50.png?raw=true)
 
-##### `HTML`
+##### HTML
 
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-41.png?raw=true)
+![HTML](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-51.png?raw=true)
 
-##### `CSS`
+##### CSS
 
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-42.png?raw=true)
+![CSS](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-52.png?raw=true)
 
-##### `JSON`
+##### JSON
 
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-43.png?raw=true)
-
-##### `YAML`
-
-![Screenshot](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-44.png?raw=true)
+![JSON](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-53.png?raw=true)

@@ -1,13 +1,21 @@
 {
   "name": "own-dark-001",
-  "displayName": "own-dark-001",
+  "displayName": "Own Dark 001",
   "icon": "./images/logo-5.png",
-  "description": "Own mix of Dark Modern and One Dark's themes",
+  "description": "Dark theme blending Dark Modern UI with Nord-inspired pastel syntax highlighting.",
+  "keywords": [
+    "theme",
+    "dark",
+    "nord",
+    "one-dark",
+    "dark-modern",
+    "color-theme",
+    "pastel"
+  ],
   "publisher": "own-themes",
   "author": {
     "name": "own-themes"
   },
-  "private": true,
   "packageManager": "pnpm@11.5.2",
   "license": "MIT",
   "repository": {
@@ -16,7 +24,7 @@
   },
   "version": "0.3.14",
   "engines": {
-    "vscode": "^1.97.2"
+    "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
@@ -26,13 +34,13 @@
       {
         "label": "own-dark-001",
         "uiTheme": "vs-dark",
-        "path": "./themes/own-dark-001-color-theme.json"
+        "path": "./themes/own-dark-001-color-theme.json",
+        "displayName": "Own Dark 001"
       }
     ]
   },
   "scripts": {
     "vsce:pack": "vsce pack -o ./",
-    "vsce:build": "vsce pack -o ./",
     "vsce:publish": "vsce publish",
     "format:write": "prettier --write .",
     "format:check": "prettier --check .",
