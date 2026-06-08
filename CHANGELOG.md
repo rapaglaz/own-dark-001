@@ -1,3 +1,9 @@
+## [0.3.13](https://github.com/rapaglaz/own-dark-001/compare/v0.3.12...v0.3.13) (2026-06-08)
+
+### Changes
+
+* **theme:** update terminal color palette ([492534d](https://github.com/rapaglaz/own-dark-001/commit/492534d445e8c5a8d1be8d537ebe71be52e635b3))
+
 ## [0.3.12](https://github.com/rapaglaz/own-dark-001/compare/v0.3.11...v0.3.12) (2026-06-08)
 
 ### Changes

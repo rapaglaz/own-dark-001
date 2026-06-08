@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/rapaglaz/own-dark-001"
   },
-  "version": "0.3.12",
+  "version": "0.3.13",
   "engines": {
     "vscode": "^1.97.2"
   },
