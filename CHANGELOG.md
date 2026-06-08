@@ -1,3 +1,9 @@
+## [0.3.15](https://github.com/rapaglaz/own-dark-001/compare/v0.3.14...v0.3.15) (2026-06-08)
+
+### Changes
+
+* update marketplace metadata, README and screenshots ([3a4690c](https://github.com/rapaglaz/own-dark-001/commit/3a4690c36c1974dd538b63916407032f44c9a251))
+
 ## [0.3.14](https://github.com/rapaglaz/own-dark-001/compare/v0.3.13...v0.3.14) (2026-06-08)
 
 ### Changes
