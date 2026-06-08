@@ -1,3 +1,14 @@
+## [0.3.12](https://github.com/rapaglaz/own-dark-001/compare/v0.3.11...v0.3.12) (2026-06-08)
+
+### Changes
+
+* **theme:** adjust editor highlight and minimap warning colors ([dbcbaeb](https://github.com/rapaglaz/own-dark-001/commit/dbcbaebfb2acd76bcc09b4d273e221d5d830a006)), closes [#1e2230](https://github.com/rapaglaz/own-dark-001/issues/1e2230) [#c9a227b3](https://github.com/rapaglaz/own-dark-001/issues/c9a227b3)
+* **theme:** extend tokenColors ([397ff66](https://github.com/rapaglaz/own-dark-001/commit/397ff6626a918ece199566082a296ccc05696628))
+* **theme:** refine semanticTokenColors for role-based visual hierarchy ([6518eed](https://github.com/rapaglaz/own-dark-001/commit/6518eed150287e9de5221a0860bc54d1b60b081f)), closes [#B6AABC](https://github.com/rapaglaz/own-dark-001/issues/B6AABC) [#9296C0](https://github.com/rapaglaz/own-dark-001/issues/9296C0) [#A09EB8](https://github.com/rapaglaz/own-dark-001/issues/A09EB8) [#96ACCB](https://github.com/rapaglaz/own-dark-001/issues/96ACCB) [#D4A57E](https://github.com/rapaglaz/own-dark-001/issues/D4A57E) [#C5A07C](https://github.com/rapaglaz/own-dark-001/issues/C5A07C) [#C6C4BE](https://github.com/rapaglaz/own-dark-001/issues/C6C4BE) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB) [#8aaec8](https://github.com/rapaglaz/own-dark-001/issues/8aaec8) [#9FBDD0](https://github.com/rapaglaz/own-dark-001/issues/9FBDD0) [#7396B4](https://github.com/rapaglaz/own-dark-001/issues/7396B4) [#9882B0](https://github.com/rapaglaz/own-dark-001/issues/9882B0) [#7CBDB0](https://github.com/rapaglaz/own-dark-001/issues/7CBDB0)
+* **theme:** refine token color roles ([a0a4ff2](https://github.com/rapaglaz/own-dark-001/commit/a0a4ff239047bed0b6372a7411025a9804187619)), closes [#9D89B0](https://github.com/rapaglaz/own-dark-001/issues/9D89B0) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB) [#D08770](https://github.com/rapaglaz/own-dark-001/issues/D08770) [#C97B5A](https://github.com/rapaglaz/own-dark-001/issues/C97B5A) [#C8B89A](https://github.com/rapaglaz/own-dark-001/issues/C8B89A) [#9AAABE](https://github.com/rapaglaz/own-dark-001/issues/9AAABE) [#88C0D0](https://github.com/rapaglaz/own-dark-001/issues/88C0D0) [#81A1C1](https://github.com/rapaglaz/own-dark-001/issues/81A1C1) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB)
+* **theme:** update foreground color for storage modifier ([db5cddf](https://github.com/rapaglaz/own-dark-001/commit/db5cddf2aa9ad05386abfe3b15725325cbbc2d11))
+* **theme:** update json property color ([b0b30e5](https://github.com/rapaglaz/own-dark-001/commit/b0b30e5ba988a9693e14681857d4a7e384051a0c))
+
 ## [0.3.11](https://github.com/rapaglaz/own-dark-001/compare/v0.3.10...v0.3.11) (2026-06-03)
 
 ### Changes
