@@ -11,16 +11,20 @@ UI based on **Dark Modern**, syntax on **Nord** — softened with pastel accents
 
 ##### TypeScript
 
-![TypeScript](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-50.png?raw=true)
+![TypeScript](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-60.png?raw=true)
 
 ##### HTML
 
-![HTML](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-51.png?raw=true)
+![HTML](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-61.png?raw=true)
 
 ##### CSS
 
-![CSS](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-52.png?raw=true)
+![CSS](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-62.png?raw=true)
 
 ##### JSON
 
-![JSON](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-53.png?raw=true)
+![JSON](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-63.png?raw=true)
+
+##### YAML
+
+![JSON](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-64.png?raw=true)
