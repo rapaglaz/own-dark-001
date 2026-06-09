@@ -1,3 +1,10 @@
+## [0.3.17](https://github.com/rapaglaz/own-dark-001/compare/v0.3.16...v0.3.17) (2026-06-09)
+
+### Changes
+
+* **theme:** update debug console and diff editor colors ([a57ed35](https://github.com/rapaglaz/own-dark-001/commit/a57ed35a1f29459fa9bf05fb6d9c9e69f35a4578))
+* update README and package description ([fa9344a](https://github.com/rapaglaz/own-dark-001/commit/fa9344a5074786757af1b20ffefaa374f32b6dc5))
+
 ## [0.3.16](https://github.com/rapaglaz/own-dark-001/compare/v0.3.15...v0.3.16) (2026-06-09)
 
 ### Changes
