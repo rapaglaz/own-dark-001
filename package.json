@@ -2,15 +2,15 @@
   "name": "own-dark-001",
   "displayName": "Own Dark 001",
   "icon": "./images/logo-5.png",
-  "description": "Dark theme blending Dark Modern UI with Nord-inspired pastel syntax highlighting.",
+  "description": "A calm dark theme with cool blue-grey UI and pastel syntax highlighting, built for daily work.",
   "keywords": [
     "theme",
     "dark",
-    "nord",
-    "one-dark",
-    "dark-modern",
     "color-theme",
-    "pastel"
+    "pastel",
+    "blue-grey",
+    "minimal",
+    "low-contrast"
   ],
   "publisher": "own-themes",
   "author": {

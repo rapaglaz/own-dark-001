@@ -1,7 +1,7 @@
 # Own Dark 001
 
-A dark theme I built because I couldn't find one I actually liked.
-UI based on **Dark Modern**, syntax on **Nord** — softened with pastel accents.
+A calm dark theme built for daily work.
+Cool blue-grey UI, pastel syntax highlighting, low visual noise.
 
 ## Install
 
