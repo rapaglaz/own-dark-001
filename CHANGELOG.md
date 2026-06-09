@@ -1,3 +1,11 @@
+## [0.3.16](https://github.com/rapaglaz/own-dark-001/compare/v0.3.15...v0.3.16) (2026-06-09)
+
+### Changes
+
+* **theme:** refine cursor, tabs, find, brackets, terminal colors ([5c28fe6](https://github.com/rapaglaz/own-dark-001/commit/5c28fe61a3c91cf086e16cca4755d93977bb5537))
+* **theme:** update token hierarchy toward cool blue-grey palette ([cdfacad](https://github.com/rapaglaz/own-dark-001/commit/cdfacad061558654582189cf4d001d32bb8cc124))
+* update README and screenshots ([0415b4d](https://github.com/rapaglaz/own-dark-001/commit/0415b4d6e6df53252f4621a4027204695be9e1d4))
+
 ## [0.3.15](https://github.com/rapaglaz/own-dark-001/compare/v0.3.14...v0.3.15) (2026-06-08)
 
 ### Changes
