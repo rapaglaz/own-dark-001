@@ -732,7 +732,7 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#96B8DB"
+        "foreground": "#7A9AB8"
       }
     },
     {
@@ -756,7 +756,7 @@
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#7A7870"
+        "foreground": "#637585"
       }
     },
     {
@@ -775,7 +775,7 @@
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#6ABFDB"
+        "foreground": "#81A1C1"
       }
     },
     {
@@ -1589,7 +1589,7 @@
         "meta.tag.other.unrecognized entity.name.tag"
       ],
       "settings": {
-        "foreground": "#A89ACA"
+        "foreground": "#88C0D0"
       }
     },
     {
@@ -1735,7 +1735,7 @@
     "type.defaultLibrary": "#81A1C1",
     "parameter": "#9AAAB8",
     "variable": "#CBC9C2",
-    "variable.local": "#C4C2BC",
+    "variable.local": "#CCC8B8",
     "variable.readonly": "#6ABFDB",
     "variable.readonly.local": "#6ABFDB",
     "variable.readonly.defaultLibrary": "#81A1C1",
@@ -1743,7 +1743,7 @@
     "property": "#9FBDD0",
     "property.readonly": "#89AABF",
     "property.static": "#7396B4",
-    "enumMember": "#7CBDB0",
+    "enumMember": "#6ABFDB",
     "decorator": "#9882B0",
     "event": "#D4A57E",
     "function": "#D4A57E",
