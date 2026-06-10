@@ -1,3 +1,10 @@
+## [0.3.19](https://github.com/rapaglaz/own-dark-001/compare/v0.3.18...v0.3.19) (2026-06-10)
+
+### Changes
+
+* **theme:** tune keyword, modifier, constant and tag token colors ([e748bab](https://github.com/rapaglaz/own-dark-001/commit/e748baba1a4e7276321679941c364d1d834fbfae))
+* **theme:** tune string color to [#43a083](https://github.com/rapaglaz/own-dark-001/issues/43a083) ([01df9ce](https://github.com/rapaglaz/own-dark-001/commit/01df9ce47dd8a37c80af2ac59746170288c93eed))
+
 ## [0.3.18](https://github.com/rapaglaz/own-dark-001/compare/v0.3.17...v0.3.18) (2026-06-10)
 
 ### Changes
