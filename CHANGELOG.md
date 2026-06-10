@@ -1,3 +1,10 @@
+## [0.3.18](https://github.com/rapaglaz/own-dark-001/compare/v0.3.17...v0.3.18) (2026-06-10)
+
+### Changes
+
+* **theme:** improve token color differentiation ([b951d01](https://github.com/rapaglaz/own-dark-001/commit/b951d0188d5acb7e03d4ce1d76df9f76b580d7e2)), closes [#7E8A92](https://github.com/rapaglaz/own-dark-001/issues/7E8A92) [#7a92aa](https://github.com/rapaglaz/own-dark-001/issues/7a92aa)
+* **theme:** reduce italic usage and tune token colors ([a68a128](https://github.com/rapaglaz/own-dark-001/commit/a68a128f54f6a8b7fbd86d01973848fac94fc02f))
+
 ## [0.3.17](https://github.com/rapaglaz/own-dark-001/compare/v0.3.16...v0.3.17) (2026-06-09)
 
 ### Changes
