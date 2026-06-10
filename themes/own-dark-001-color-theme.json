@@ -137,7 +137,7 @@
     "editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
     "editor.stackFrameHighlightBackground": "#ffff0033",
     "editor.symbolHighlightBackground": "#6199ff2f",
-    "editor.wordHighlightBackground": "#8aaec81a",
+    "editor.wordHighlightBackground": "#8aaec830",
     "editor.wordHighlightTextBackground": "#d2e0ff2f",
     "editor.wordHighlightTextBorder": "#7f848e",
     "editorBracketHighlight.foreground1": "#49799851",
@@ -218,11 +218,11 @@
     "editorInfo.border": "#00000000",
     "editorInfo.foreground": "#6ABFDB",
     "editorInlayHint.background": "#23272e00",
-    "editorInlayHint.foreground": "#7a8594",
+    "editorInlayHint.foreground": "#6a8aA4",
     "editorInlayHint.parameterBackground": "#23272e00",
-    "editorInlayHint.parameterForeground": "#7a8594",
+    "editorInlayHint.parameterForeground": "#6a8aA4",
     "editorInlayHint.typeBackground": "#23272e00",
-    "editorInlayHint.typeForeground": "#7a8594",
+    "editorInlayHint.typeForeground": "#6a8aA4",
     "editorLightBulb.foreground": "#aaaf00",
     "editorLightBulbAi.foreground": "#aaaf00",
     "editorLightBulbAutoFix.foreground": "#75beff",
@@ -251,9 +251,9 @@
     "editorSuggestWidget.border": "#393c40",
     "editorSuggestWidget.focusHighlightForeground": "#e2fff9e2",
     "editorSuggestWidget.foreground": "#d7d7d7b5",
-    "editorSuggestWidget.highlightForeground": "#d7d7d7b5",
+    "editorSuggestWidget.highlightForeground": "#e8e8e8",
     "editorSuggestWidget.selectedBackground": "#314F7898",
-    "editorSuggestWidget.selectedForeground": "#d7d7d7b5",
+    "editorSuggestWidget.selectedForeground": "#d7d7d7",
     "editorSuggestWidget.selectedIconForeground": "#e2ecffe2",
     "editorSuggestWidgetStatus.foreground": "#abb2bf80",
     "editorUnicodeHighlight.border": "#fff20086",
@@ -750,13 +750,13 @@
     {
       "scope": ["storage", "storage.type"],
       "settings": {
-        "foreground": "#A8A5C4"
+        "foreground": "#7A9AB8"
       }
     },
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#A8A5C4"
+        "foreground": "#7A7870"
       }
     },
     {
@@ -965,8 +965,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#81A1C1",
-        "fontStyle": "italic"
+        "foreground": "#81A1C1"
       }
     },
     {
@@ -1574,8 +1573,7 @@
     {
       "scope": "storage.modifier.async",
       "settings": {
-        "foreground": "#96B8DB",
-        "fontStyle": "italic"
+        "foreground": "#7A9AB8"
       }
     },
     {
@@ -1743,7 +1741,7 @@
     "variable.readonly.defaultLibrary": "#81A1C1",
     "variable.defaultLibrary": "#81A1C1",
     "property": "#9FBDD0",
-    "property.readonly": "#B0C8D8",
+    "property.readonly": "#89AABF",
     "property.static": "#7396B4",
     "enumMember": "#7CBDB0",
     "decorator": "#9882B0",
@@ -1751,14 +1749,12 @@
     "function": "#D4A57E",
     "function.defaultLibrary": "#D4A57E",
     "function.async": {
-      "foreground": "#D4A57E",
-      "italic": true
+      "foreground": "#D4A57E"
     },
     "method": "#B8896A",
     "method.static": "#B8896A",
     "method.async": {
-      "foreground": "#B8896A",
-      "italic": true
+      "foreground": "#B8896A"
     },
     "macro": "#96B8DB",
     "label": "#CBC9C2",
@@ -1771,16 +1767,15 @@
       "italic": false
     },
     "string": "#7EC699",
-    "keyword": "#96B8DB",
+    "keyword": "#7A9AB8",
     "keyword.async": {
-      "foreground": "#96B8DB",
-      "italic": true
+      "foreground": "#7A9AB8"
     },
     "number": "#D08770",
     "regexp": "#6ABFDB",
     "operator": "#B5C1D1",
-    "selfKeyword": { "foreground": "#81A1C1", "italic": true },
-    "selfParameter": { "foreground": "#81A1C1", "italic": true },
+    "selfKeyword": { "foreground": "#81A1C1" },
+    "selfParameter": { "foreground": "#81A1C1" },
     "builtinAttribute": "#81A1C1",
     "lifetime": "#D08770",
     "derive": "#96B8DB",
@@ -1792,9 +1787,6 @@
     "boolean": "#6ABFDB",
     "*.deprecated": {
       "strikethrough": true
-    },
-    "*.abstract": {
-      "italic": true
     }
   }
 }
