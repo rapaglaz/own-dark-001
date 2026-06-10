@@ -140,9 +140,9 @@
     "editor.wordHighlightBackground": "#8aaec81a",
     "editor.wordHighlightTextBackground": "#d2e0ff2f",
     "editor.wordHighlightTextBorder": "#7f848e",
-    "editorBracketHighlight.foreground1": "#49799877",
-    "editorBracketHighlight.foreground2": "#49799877",
-    "editorBracketHighlight.foreground3": "#49799877",
+    "editorBracketHighlight.foreground1": "#49799851",
+    "editorBracketHighlight.foreground2": "#49799851",
+    "editorBracketHighlight.foreground3": "#49799851",
     "editorBracketHighlight.foreground4": "#00000000",
     "editorBracketHighlight.foreground5": "#00000000",
     "editorBracketHighlight.foreground6": "#00000000",
@@ -274,7 +274,7 @@
     "extensionButton.prominentForeground": "#ffffff",
     "extensionButton.prominentHoverBackground": "#4d5565",
     "extensionButton.separator": "#ffffff66",
-    "focusBorder": "#88C0D026",
+    "focusBorder": "#88C0D051",
     "foreground": "#cccccc",
     "git.blame.editorDecorationForeground": "#616161",
     "gitDecoration.addedResourceForeground": "#81b88b",
@@ -686,7 +686,7 @@
     {
       "scope": ["comment", "comment.block", "comment.line"],
       "settings": {
-        "foreground": "#7E8A92",
+        "foreground": "#7a92aa",
         "fontStyle": ""
       }
     },
@@ -750,13 +750,13 @@
     {
       "scope": ["storage", "storage.type"],
       "settings": {
-        "foreground": "#9EA8B8"
+        "foreground": "#A8A5C4"
       }
     },
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#9EA8B8"
+        "foreground": "#A8A5C4"
       }
     },
     {
@@ -1018,7 +1018,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#CBC9C2"
+        "foreground": "#A8C4BE"
       }
     },
     {
@@ -1601,7 +1601,6 @@
         "entity.other.attribute-name.template.angular",
         "keyword.control.flow.ng",
         "keyword.other.block.ng"
-        // "entity.other.ng-binding-name.template.html"
       ],
       "settings": {
         "foreground": "#D29FC8"
