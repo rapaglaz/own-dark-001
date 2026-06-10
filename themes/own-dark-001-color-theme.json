@@ -811,7 +811,7 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -833,7 +833,7 @@
     {
       "scope": "string.regexp constant.character.escape",
       "settings": {
-        "foreground": "#7EC699",
+        "foreground": "#43a083",
         "fontStyle": "bold"
       }
     },
@@ -854,7 +854,7 @@
         "support.other.parenthesis.regexp"
       ],
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1064,7 +1064,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1088,7 +1088,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1235,19 +1235,19 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
       "scope": "punctuation.definition.quote.begin.markdown",
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1259,7 +1259,7 @@
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "scope": ["markup.inserted", "meta.diff.header.to-file", "punctuation.definition.inserted"],
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1411,7 +1411,7 @@
     {
       "scope": ["punctuation.definition.string.begin", "punctuation.definition.string.end"],
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1472,7 +1472,7 @@
     {
       "scope": ["markup.fenced_code.block.markdown", "markup.raw.block"],
       "settings": {
-        "foreground": "#7EC699"
+        "foreground": "#43a083"
       }
     },
     {
@@ -1766,7 +1766,7 @@
       "foreground": "#8399b0",
       "italic": false
     },
-    "string": "#7EC699",
+    "string": "#43a083",
     "keyword": "#7A9AB8",
     "keyword.async": {
       "foreground": "#7A9AB8"
