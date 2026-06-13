@@ -1,3 +1,12 @@
+## [0.3.20](https://github.com/rapaglaz/own-dark-001/compare/v0.3.19...v0.3.20) (2026-06-13)
+
+### Changes
+
+* **theme:** consolidate blue palette and fix symbol icon colors ([c89e166](https://github.com/rapaglaz/own-dark-001/commit/c89e1665d91f04ef9b9b284dbec09e19abab7a4c)), closes [#9FBDD0](https://github.com/rapaglaz/own-dark-001/issues/9FBDD0) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB) [#ee9d28](https://github.com/rapaglaz/own-dark-001/issues/ee9d28) [#8AAAC8](https://github.com/rapaglaz/own-dark-001/issues/8AAAC8) [#677E94](https://github.com/rapaglaz/own-dark-001/issues/677E94) [#93A7BC](https://github.com/rapaglaz/own-dark-001/issues/93A7BC)
+* **theme:** improve contrast for cursor, line highlight, and storage.modifier ([4e2bee7](https://github.com/rapaglaz/own-dark-001/commit/4e2bee750adfaa5b0bb3e56ba7a5d86fab4514ba)), closes [#88C0D0to](https://github.com/rapaglaz/own-dark-001/issues/88C0D0to) [#C8D8E4](https://github.com/rapaglaz/own-dark-001/issues/C8D8E4) [#1e2230](https://github.com/rapaglaz/own-dark-001/issues/1e2230) [#222638](https://github.com/rapaglaz/own-dark-001/issues/222638) [#637585to](https://github.com/rapaglaz/own-dark-001/issues/637585to) [#7A8899](https://github.com/rapaglaz/own-dark-001/issues/7A8899)
+* **theme:** rebalance token contrast and lift dim UI values ([2738ec8](https://github.com/rapaglaz/own-dark-001/commit/2738ec8252338474cec8d6dce818e446b26c29b5))
+* **theme:** tune comment colors to neutral gray palette ([294b12c](https://github.com/rapaglaz/own-dark-001/commit/294b12c68afd773bfc12d05082f0318806bf74fc)), closes [#677E94](https://github.com/rapaglaz/own-dark-001/issues/677E94) [#7A7E85](https://github.com/rapaglaz/own-dark-001/issues/7A7E85) [#93A7BC](https://github.com/rapaglaz/own-dark-001/issues/93A7BC)
+
 ## [0.3.19](https://github.com/rapaglaz/own-dark-001/compare/v0.3.18...v0.3.19) (2026-06-10)
 
 ### Changes
