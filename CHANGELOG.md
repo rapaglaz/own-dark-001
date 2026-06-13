@@ -1,3 +1,10 @@
+## [0.3.22](https://github.com/rapaglaz/own-dark-001/compare/v0.3.21...v0.3.22) (2026-06-13)
+
+### Changes
+
+* **theme:** consolidate type tokens, deepen methods, and lift numeric color ([300ab4e](https://github.com/rapaglaz/own-dark-001/commit/300ab4ed3c856f985b943c5c21f4ff801eb1a527)), closes [#A8A5C4](https://github.com/rapaglaz/own-dark-001/issues/A8A5C4) [#CBC9C2](https://github.com/rapaglaz/own-dark-001/issues/CBC9C2) [#D0CEC8](https://github.com/rapaglaz/own-dark-001/issues/D0CEC8) [#D4A57E](https://github.com/rapaglaz/own-dark-001/issues/D4A57E) [#AD7F58](https://github.com/rapaglaz/own-dark-001/issues/AD7F58) [#ef6262](https://github.com/rapaglaz/own-dark-001/issues/ef6262) [#a35647](https://github.com/rapaglaz/own-dark-001/issues/a35647) [#D36C6C](https://github.com/rapaglaz/own-dark-001/issues/D36C6C) [#81b88b](https://github.com/rapaglaz/own-dark-001/issues/81b88b) [#67AE94](https://github.com/rapaglaz/own-dark-001/issues/67AE94) [#e2c08d](https://github.com/rapaglaz/own-dark-001/issues/e2c08d) [#C4A05A](https://github.com/rapaglaz/own-dark-001/issues/C4A05A) [c74e39/#e4676b](https://github.com/c74e39/own-dark-001/issues/e4676b) [#BF616A](https://github.com/rapaglaz/own-dark-001/issues/BF616A) [#73c991to](https://github.com/rapaglaz/own-dark-001/issues/73c991to) [#7AAB82](https://github.com/rapaglaz/own-dark-001/issues/7AAB82) [#8db9e2](https://github.com/rapaglaz/own-dark-001/issues/8db9e2) [#7396c4](https://github.com/rapaglaz/own-dark-001/issues/7396c4) [#D08770](https://github.com/rapaglaz/own-dark-001/issues/D08770) [#E68C68](https://github.com/rapaglaz/own-dark-001/issues/E68C68)
+* **theme:** update line highlight colors ([1bffb18](https://github.com/rapaglaz/own-dark-001/commit/1bffb181c15448b96122138b25c073c3a0296024))
+
 ## [0.3.21](https://github.com/rapaglaz/own-dark-001/compare/v0.3.20...v0.3.21) (2026-06-13)
 
 ### Changes
