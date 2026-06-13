@@ -1,3 +1,9 @@
+## [0.3.21](https://github.com/rapaglaz/own-dark-001/compare/v0.3.20...v0.3.21) (2026-06-13)
+
+### Changes
+
+* **theme:** tune selection and line-number contrast ([afdceb3](https://github.com/rapaglaz/own-dark-001/commit/afdceb3f1d7729b1a113a474aeb3dcb0309786c2))
+
 ## [0.3.20](https://github.com/rapaglaz/own-dark-001/compare/v0.3.19...v0.3.20) (2026-06-13)
 
 ### Changes
