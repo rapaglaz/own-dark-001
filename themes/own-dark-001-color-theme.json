@@ -127,7 +127,7 @@
     "editor.inactiveSelectionBackground": "#52667540",
     "editor.inlineValuesBackground": "#ffc80033",
     "editor.inlineValuesForeground": "#ffffff80",
-    "editor.lineHighlightBackground": "#1e2230",
+    "editor.lineHighlightBackground": "#222638",
     "editor.lineHighlightBorder": "#00000000",
     "editor.linkedEditingBackground": "#ff00004d",
     "editor.rangeHighlightBackground": "#ffffff0b",
@@ -169,7 +169,7 @@
     "editorCommentsWidget.resolvedBorder": "#cccccc80",
     "editorCommentsWidget.unresolvedBorder": "#393c40",
     "editorCursor.background": "#070707",
-    "editorCursor.foreground": "#88C0D0",
+    "editorCursor.foreground": "#C8D8E4",
     "editorError.border": "#00000000",
     "editorError.foreground": "#D36C6C",
     "editorGhostText.border": "#393c40",
@@ -756,7 +756,7 @@
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#637585"
+        "foreground": "#7A8899"
       }
     },
     {
