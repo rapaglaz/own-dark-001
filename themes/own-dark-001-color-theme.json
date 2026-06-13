@@ -131,8 +131,8 @@
     "editor.lineHighlightBorder": "#00000000",
     "editor.linkedEditingBackground": "#ff00004d",
     "editor.rangeHighlightBackground": "#ffffff0b",
-    "editor.selectionBackground": "#2a4d6a",
-    "editor.selectionHighlightBackground": "#5a697561",
+    "editor.selectionBackground": "#34557a",
+    "editor.selectionHighlightBackground": "#3a4a5840",
     "editor.snippetFinalTabstopHighlightBorder": "#525252",
     "editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
     "editor.stackFrameHighlightBackground": "#ffff0033",
@@ -227,7 +227,7 @@
     "editorLightBulbAi.foreground": "#aaaf00",
     "editorLightBulbAutoFix.foreground": "#75beff",
     "editorLineNumber.activeForeground": "#abb2bf",
-    "editorLineNumber.foreground": "#61616c",
+    "editorLineNumber.foreground": "#71717e",
     "editorLink.activeForeground": "#4e94ce",
     "editorMarkerNavigation.background": "#1e2227",
     "editorMarkerNavigationError.background": "#ef62629e",
@@ -1005,7 +1005,7 @@
     {
       "scope": "support.class.component",
       "settings": {
-        "foreground": "#76B4C7"
+        "foreground": "#A8A5C4"
       }
     },
     {
