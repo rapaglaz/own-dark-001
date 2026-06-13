@@ -1,3 +1,9 @@
+## [0.3.23](https://github.com/rapaglaz/own-dark-001/compare/v0.3.22...v0.3.23) (2026-06-13)
+
+### Changes
+
+* **screenshots:** update screenshots ([1c4145f](https://github.com/rapaglaz/own-dark-001/commit/1c4145f993d73ddda23f80f83d4f46c01056ed43))
+
 ## [0.3.22](https://github.com/rapaglaz/own-dark-001/compare/v0.3.21...v0.3.22) (2026-06-13)
 
 ### Changes
