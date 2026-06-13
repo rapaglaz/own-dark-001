@@ -2,7 +2,7 @@
 
 ### Changes
 
-* **theme:** consolidate type tokens, deepen methods, and lift numeric color ([300ab4e](https://github.com/rapaglaz/own-dark-001/commit/300ab4ed3c856f985b943c5c21f4ff801eb1a527)), closes [#A8A5C4](https://github.com/rapaglaz/own-dark-001/issues/A8A5C4) [#CBC9C2](https://github.com/rapaglaz/own-dark-001/issues/CBC9C2) [#D0CEC8](https://github.com/rapaglaz/own-dark-001/issues/D0CEC8) [#D4A57E](https://github.com/rapaglaz/own-dark-001/issues/D4A57E) [#AD7F58](https://github.com/rapaglaz/own-dark-001/issues/AD7F58) [#ef6262](https://github.com/rapaglaz/own-dark-001/issues/ef6262) [#a35647](https://github.com/rapaglaz/own-dark-001/issues/a35647) [#D36C6C](https://github.com/rapaglaz/own-dark-001/issues/D36C6C) [#81b88b](https://github.com/rapaglaz/own-dark-001/issues/81b88b) [#67AE94](https://github.com/rapaglaz/own-dark-001/issues/67AE94) [#e2c08d](https://github.com/rapaglaz/own-dark-001/issues/e2c08d) [#C4A05A](https://github.com/rapaglaz/own-dark-001/issues/C4A05A) [c74e39/#e4676b](https://github.com/c74e39/own-dark-001/issues/e4676b) [#BF616A](https://github.com/rapaglaz/own-dark-001/issues/BF616A) [#73c991to](https://github.com/rapaglaz/own-dark-001/issues/73c991to) [#7AAB82](https://github.com/rapaglaz/own-dark-001/issues/7AAB82) [#8db9e2](https://github.com/rapaglaz/own-dark-001/issues/8db9e2) [#7396c4](https://github.com/rapaglaz/own-dark-001/issues/7396c4) [#D08770](https://github.com/rapaglaz/own-dark-001/issues/D08770) [#E68C68](https://github.com/rapaglaz/own-dark-001/issues/E68C68)
+* **theme:** consolidate type tokens, deepen methods, and lift numeric color ([300ab4e](https://github.com/rapaglaz/own-dark-001/commit/300ab4ed3c856f985b943c5c21f4ff801eb1a527))
 * **theme:** update line highlight colors ([1bffb18](https://github.com/rapaglaz/own-dark-001/commit/1bffb181c15448b96122138b25c073c3a0296024))
 
 ## [0.3.21](https://github.com/rapaglaz/own-dark-001/compare/v0.3.20...v0.3.21) (2026-06-13)
@@ -15,10 +15,10 @@
 
 ### Changes
 
-* **theme:** consolidate blue palette and fix symbol icon colors ([c89e166](https://github.com/rapaglaz/own-dark-001/commit/c89e1665d91f04ef9b9b284dbec09e19abab7a4c)), closes [#9FBDD0](https://github.com/rapaglaz/own-dark-001/issues/9FBDD0) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB) [#ee9d28](https://github.com/rapaglaz/own-dark-001/issues/ee9d28) [#8AAAC8](https://github.com/rapaglaz/own-dark-001/issues/8AAAC8) [#677E94](https://github.com/rapaglaz/own-dark-001/issues/677E94) [#93A7BC](https://github.com/rapaglaz/own-dark-001/issues/93A7BC)
-* **theme:** improve contrast for cursor, line highlight, and storage.modifier ([4e2bee7](https://github.com/rapaglaz/own-dark-001/commit/4e2bee750adfaa5b0bb3e56ba7a5d86fab4514ba)), closes [#88C0D0to](https://github.com/rapaglaz/own-dark-001/issues/88C0D0to) [#C8D8E4](https://github.com/rapaglaz/own-dark-001/issues/C8D8E4) [#1e2230](https://github.com/rapaglaz/own-dark-001/issues/1e2230) [#222638](https://github.com/rapaglaz/own-dark-001/issues/222638) [#637585to](https://github.com/rapaglaz/own-dark-001/issues/637585to) [#7A8899](https://github.com/rapaglaz/own-dark-001/issues/7A8899)
+* **theme:** consolidate blue palette and fix symbol icon colors ([c89e166](https://github.com/rapaglaz/own-dark-001/commit/c89e1665d91f04ef9b9b284dbec09e19abab7a4c))
+* **theme:** improve contrast for cursor, line highlight, and storage.modifier ([4e2bee7](https://github.com/rapaglaz/own-dark-001/commit/4e2bee750adfaa5b0bb3e56ba7a5d86fab4514ba))
 * **theme:** rebalance token contrast and lift dim UI values ([2738ec8](https://github.com/rapaglaz/own-dark-001/commit/2738ec8252338474cec8d6dce818e446b26c29b5))
-* **theme:** tune comment colors to neutral gray palette ([294b12c](https://github.com/rapaglaz/own-dark-001/commit/294b12c68afd773bfc12d05082f0318806bf74fc)), closes [#677E94](https://github.com/rapaglaz/own-dark-001/issues/677E94) [#7A7E85](https://github.com/rapaglaz/own-dark-001/issues/7A7E85) [#93A7BC](https://github.com/rapaglaz/own-dark-001/issues/93A7BC)
+* **theme:** tune comment colors to neutral gray palette ([294b12c](https://github.com/rapaglaz/own-dark-001/commit/294b12c68afd773bfc12d05082f0318806bf74fc))
 
 ## [0.3.19](https://github.com/rapaglaz/own-dark-001/compare/v0.3.18...v0.3.19) (2026-06-10)
 
@@ -31,7 +31,7 @@
 
 ### Changes
 
-* **theme:** improve token color differentiation ([b951d01](https://github.com/rapaglaz/own-dark-001/commit/b951d0188d5acb7e03d4ce1d76df9f76b580d7e2)), closes [#7E8A92](https://github.com/rapaglaz/own-dark-001/issues/7E8A92) [#7a92aa](https://github.com/rapaglaz/own-dark-001/issues/7a92aa)
+* **theme:** improve token color differentiation ([b951d01](https://github.com/rapaglaz/own-dark-001/commit/b951d0188d5acb7e03d4ce1d76df9f76b580d7e2))
 * **theme:** reduce italic usage and tune token colors ([a68a128](https://github.com/rapaglaz/own-dark-001/commit/a68a128f54f6a8b7fbd86d01973848fac94fc02f))
 
 ## [0.3.17](https://github.com/rapaglaz/own-dark-001/compare/v0.3.16...v0.3.17) (2026-06-09)
@@ -59,7 +59,7 @@
 
 ### Changes
 
-* **theme:** refine YAML and variable token colors ([172f467](https://github.com/rapaglaz/own-dark-001/commit/172f46715b4f0da64a536717ca9412d6bde12746)), closes [#8aaec8](https://github.com/rapaglaz/own-dark-001/issues/8aaec8) [#9FBDD0](https://github.com/rapaglaz/own-dark-001/issues/9FBDD0) [#C6C4BE](https://github.com/rapaglaz/own-dark-001/issues/C6C4BE) [#D0CEC8](https://github.com/rapaglaz/own-dark-001/issues/D0CEC8) [#CBC9C2](https://github.com/rapaglaz/own-dark-001/issues/CBC9C2) [#C6C4BE](https://github.com/rapaglaz/own-dark-001/issues/C6C4BE) [#abb2bf](https://github.com/rapaglaz/own-dark-001/issues/abb2bf)
+* **theme:** refine YAML and variable token colors ([172f467](https://github.com/rapaglaz/own-dark-001/commit/172f46715b4f0da64a536717ca9412d6bde12746))
 
 ## [0.3.13](https://github.com/rapaglaz/own-dark-001/compare/v0.3.12...v0.3.13) (2026-06-08)
 
@@ -71,10 +71,10 @@
 
 ### Changes
 
-* **theme:** adjust editor highlight and minimap warning colors ([dbcbaeb](https://github.com/rapaglaz/own-dark-001/commit/dbcbaebfb2acd76bcc09b4d273e221d5d830a006)), closes [#1e2230](https://github.com/rapaglaz/own-dark-001/issues/1e2230) [#c9a227b3](https://github.com/rapaglaz/own-dark-001/issues/c9a227b3)
+* **theme:** adjust editor highlight and minimap warning colors ([dbcbaeb](https://github.com/rapaglaz/own-dark-001/commit/dbcbaebfb2acd76bcc09b4d273e221d5d830a006))
 * **theme:** extend tokenColors ([397ff66](https://github.com/rapaglaz/own-dark-001/commit/397ff6626a918ece199566082a296ccc05696628))
-* **theme:** refine semanticTokenColors for role-based visual hierarchy ([6518eed](https://github.com/rapaglaz/own-dark-001/commit/6518eed150287e9de5221a0860bc54d1b60b081f)), closes [#B6AABC](https://github.com/rapaglaz/own-dark-001/issues/B6AABC) [#9296C0](https://github.com/rapaglaz/own-dark-001/issues/9296C0) [#A09EB8](https://github.com/rapaglaz/own-dark-001/issues/A09EB8) [#96ACCB](https://github.com/rapaglaz/own-dark-001/issues/96ACCB) [#D4A57E](https://github.com/rapaglaz/own-dark-001/issues/D4A57E) [#C5A07C](https://github.com/rapaglaz/own-dark-001/issues/C5A07C) [#C6C4BE](https://github.com/rapaglaz/own-dark-001/issues/C6C4BE) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB) [#8aaec8](https://github.com/rapaglaz/own-dark-001/issues/8aaec8) [#9FBDD0](https://github.com/rapaglaz/own-dark-001/issues/9FBDD0) [#7396B4](https://github.com/rapaglaz/own-dark-001/issues/7396B4) [#9882B0](https://github.com/rapaglaz/own-dark-001/issues/9882B0) [#7CBDB0](https://github.com/rapaglaz/own-dark-001/issues/7CBDB0)
-* **theme:** refine token color roles ([a0a4ff2](https://github.com/rapaglaz/own-dark-001/commit/a0a4ff239047bed0b6372a7411025a9804187619)), closes [#9D89B0](https://github.com/rapaglaz/own-dark-001/issues/9D89B0) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB) [#D08770](https://github.com/rapaglaz/own-dark-001/issues/D08770) [#C97B5A](https://github.com/rapaglaz/own-dark-001/issues/C97B5A) [#C8B89A](https://github.com/rapaglaz/own-dark-001/issues/C8B89A) [#9AAABE](https://github.com/rapaglaz/own-dark-001/issues/9AAABE) [#88C0D0](https://github.com/rapaglaz/own-dark-001/issues/88C0D0) [#81A1C1](https://github.com/rapaglaz/own-dark-001/issues/81A1C1) [#6ABFDB](https://github.com/rapaglaz/own-dark-001/issues/6ABFDB)
+* **theme:** refine semanticTokenColors for role-based visual hierarchy ([6518eed](https://github.com/rapaglaz/own-dark-001/commit/6518eed150287e9de5221a0860bc54d1b60b081f))
+* **theme:** refine token color roles ([a0a4ff2](https://github.com/rapaglaz/own-dark-001/commit/a0a4ff239047bed0b6372a7411025a9804187619))
 * **theme:** update foreground color for storage modifier ([db5cddf](https://github.com/rapaglaz/own-dark-001/commit/db5cddf2aa9ad05386abfe3b15725325cbbc2d11))
 * **theme:** update json property color ([b0b30e5](https://github.com/rapaglaz/own-dark-001/commit/b0b30e5ba988a9693e14681857d4a7e384051a0c))
 
