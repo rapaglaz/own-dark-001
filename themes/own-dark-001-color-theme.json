@@ -686,7 +686,7 @@
     {
       "scope": ["comment", "comment.block", "comment.line"],
       "settings": {
-        "foreground": "#868a90",
+        "foreground": "#7A7E85",
         "fontStyle": ""
       }
     },
@@ -756,7 +756,7 @@
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#7A8598"
+        "foreground": "#7C8FB2"
       }
     },
     {
@@ -1764,7 +1764,7 @@
     "macro": "#96B8DB",
     "label": "#CBC9C2",
     "comment": {
-      "foreground": "#868a90",
+      "foreground": "#7A7E85",
       "italic": false
     },
     "comment.documentation": {
