@@ -1,3 +1,9 @@
+## [0.3.25](https://github.com/rapaglaz/own-dark-001/compare/v0.3.24...v0.3.25) (2026-06-14)
+
+### Changes
+
+* **theme:** restore blue hue to 'storage.modifier' and darken comments ([6196cbf](https://github.com/rapaglaz/own-dark-001/commit/6196cbf8055e3cf73a0979b61735b14f3350b34f))
+
 ## [0.3.24](https://github.com/rapaglaz/own-dark-001/compare/v0.3.23...v0.3.24) (2026-06-14)
 
 ### Changes
