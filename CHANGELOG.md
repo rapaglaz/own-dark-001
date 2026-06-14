@@ -1,3 +1,10 @@
+## [0.3.24](https://github.com/rapaglaz/own-dark-001/compare/v0.3.23...v0.3.24) (2026-06-14)
+
+### Changes
+
+* **theme:** lift ansiBlack off terminal background and unify method color with function color ([c842d55](https://github.com/rapaglaz/own-dark-001/commit/c842d5521d4fd751768255f071311776b8467449))
+* **theme:** recede modifiers, split cyan roles, and tune type palette ([493c632](https://github.com/rapaglaz/own-dark-001/commit/493c63216eec55dec787e097bac3b5a3a7c3be44))
+
 ## [0.3.23](https://github.com/rapaglaz/own-dark-001/compare/v0.3.22...v0.3.23) (2026-06-13)
 
 ### Changes
