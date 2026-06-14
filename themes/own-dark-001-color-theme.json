@@ -596,7 +596,7 @@
     "tab.unfocusedInactiveBackground": "#d2dfde00",
     "tab.unfocusedInactiveForeground": "#dcdcdc40",
     "tab.unfocusedInactiveModifiedBorder": "#3e8a9723",
-    "terminal.ansiBlack": "#1c2025",
+    "terminal.ansiBlack": "#3b4048",
     "terminal.ansiBrightBlack": "#667c97",
     "terminal.ansiWhite": "#aeb6c0",
     "terminal.ansiBrightWhite": "#ccd3db",
@@ -1751,10 +1751,10 @@
     "function.async": {
       "foreground": "#C99B78"
     },
-    "method": "#AD7F58",
-    "method.static": "#AD7F58",
+    "method": "#C99B78",
+    "method.static": "#C99B78",
     "method.async": {
-      "foreground": "#AD7F58"
+      "foreground": "#C99B78"
     },
     "macro": "#96B8DB",
     "label": "#CBC9C2",
