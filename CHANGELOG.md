@@ -1,3 +1,9 @@
+## [0.3.26](https://github.com/rapaglaz/own-dark-001/compare/v0.3.25...v0.3.26) (2026-06-16)
+
+### Changes
+
+* **theme:** adjust editor line highlight border color ([81f2383](https://github.com/rapaglaz/own-dark-001/commit/81f238317bffcda5c4669ad333d436d3cde5dfdb))
+
 ## [0.3.25](https://github.com/rapaglaz/own-dark-001/compare/v0.3.24...v0.3.25) (2026-06-14)
 
 ### Changes
