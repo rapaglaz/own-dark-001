@@ -16,7 +16,7 @@
   "author": {
     "name": "own-themes"
   },
-  "packageManager": "pnpm@11.8.0",
+  "packageManager": "pnpm@11.9.0",
   "license": "MIT",
   "repository": {
     "type": "git",
