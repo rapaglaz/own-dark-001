@@ -42,8 +42,8 @@ importers:
         specifier: 17.0.8
         version: 17.0.8
       prettier:
-        specifier: 3.9.0
-        version: 3.9.0
+        specifier: 3.9.4
+        version: 3.9.4
       semantic-release:
         specifier: 25.0.5
         version: 25.0.5(typescript@6.0.3)
@@ -1966,8 +1966,8 @@ packages:
     deprecated: No longer maintained. Please contact the author of the relevant native addon; alternatives are available.
     hasBin: true
 
-  prettier@3.9.0:
-    resolution: {integrity: sha512-LjIqSIC5VYLzs9WedVmJ2ljNAGnU+DteIClbahu4L/DBeWjZ6iT/k1lAYyu9JUh+1xINxWadaPw/Pl63y/agAw==}
+  prettier@3.9.4:
+    resolution: {integrity: sha512-yWG/o/4oJfo036EKAfK6ACAoDOfHeRHx4tuxkfBZiauURiaSmYwlpOr5LQqKtIkRD2z1PLteme2WoxEnj4tHTg==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -4563,7 +4563,7 @@ snapshots:
       tunnel-agent: 0.6.0
     optional: true
 
-  prettier@3.9.0: {}
+  prettier@3.9.4: {}
 
   pretty-ms@9.3.0:
     dependencies:
