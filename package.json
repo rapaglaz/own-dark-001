@@ -59,7 +59,7 @@
     "lefthook": "2.1.10",
     "lint-staged": "17.0.8",
     "prettier": "3.9.5",
-    "semantic-release": "25.0.6",
+    "semantic-release": "25.0.7",
     "semantic-release-vsce": "6.1.5"
   }
 }
