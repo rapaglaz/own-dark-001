@@ -48,8 +48,8 @@ importers:
         specifier: 25.0.8
         version: 25.0.8(supports-color@7.2.0)(typescript@7.0.2)
       semantic-release-vsce:
-        specifier: 6.1.5
-        version: 6.1.5(debug@4.4.3(supports-color@7.2.0))(semantic-release@25.0.8(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
+        specifier: 6.1.6
+        version: 6.1.6(debug@4.4.3(supports-color@7.2.0))(semantic-release@25.0.8(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
 
 packages:
 
@@ -1925,8 +1925,8 @@ packages:
     resolution: {integrity: sha512-YgBpdJHPyQ2UE5x+hlSXcnejzAvD0b22U2OuAP+8OnlJT+PjWPxtgmGqKKc+RgTM63U9gN0YzrYc71R2WT/hTA==}
     engines: {node: '>=18'}
 
-  ovsx@0.10.12:
-    resolution: {integrity: sha512-WwMj1iQDvCk02029oxPnkFXsPrHZ+WzmoNW5pJ8JGepHtL30i2JE4s3C3wqzQqj6a35vx2hp0gV3TdfefGmvMg==}
+  ovsx@1.0.2:
+    resolution: {integrity: sha512-N0gWlINGgoOA2Sn0AhrF9L3ap40a/QbsFUpMDKR+CKYyZGJeTFEoNGngplLHjAYtcjrrZv2jX2K7ktPzxWjPNg==}
     engines: {node: '>= 20'}
     hasBin: true
 
@@ -2191,8 +2191,8 @@ packages:
     engines: {node: '>=20.0.0'}
     hasBin: true
 
-  semantic-release-vsce@6.1.5:
-    resolution: {integrity: sha512-lE5eZ0COwheXBlHz0RYM0GRTnC29tj0ocl/7I6dKXg09wKIn8DBo608f/ikA3K1ejJYkVTOf3vb3eT+7nAtUxQ==}
+  semantic-release-vsce@6.1.6:
+    resolution: {integrity: sha512-I9Y+2pU+NhYunetKeB/YgLoO7WjO4tG5aAJo8abbnZoAXCO8sqWanH8awpz3ETj0LYSUBxNDg9zd8azEzAd16Q==}
     engines: {node: ^20.8.1 || >=22.0.0}
     peerDependencies:
       semantic-release: '>=20'
@@ -4535,7 +4535,7 @@ snapshots:
       is-inside-container: 1.0.0
       wsl-utils: 0.1.0
 
-  ovsx@0.10.12(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0):
+  ovsx@1.0.2(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0):
     dependencies:
       '@vscode/vsce': 3.9.2(supports-color@7.2.0)
       commander: 6.2.1
@@ -4808,13 +4808,13 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  semantic-release-vsce@6.1.5(debug@4.4.3(supports-color@7.2.0))(semantic-release@25.0.8(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0):
+  semantic-release-vsce@6.1.6(debug@4.4.3(supports-color@7.2.0))(semantic-release@25.0.8(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0):
     dependencies:
       '@semantic-release/error': 4.0.0
       '@vscode/vsce': 3.9.2(supports-color@7.2.0)
       fs-extra: 11.3.6
       glob: 13.0.6
-      ovsx: 0.10.12(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
+      ovsx: 1.0.2(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
       semantic-release: 25.0.8(supports-color@7.2.0)(typescript@7.0.2)
     transitivePeerDependencies:
       - debug
