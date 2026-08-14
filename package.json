@@ -16,7 +16,7 @@
   "author": {
     "name": "own-themes"
   },
-  "packageManager": "pnpm@11.20.0",
+  "packageManager": "pnpm@11.21.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -55,9 +55,9 @@
     "@semantic-release/github": "12.0.9",
     "@semantic-release/npm": "13.1.5",
     "@vscode/vsce": "3.9.2",
-    "conventional-changelog-conventionalcommits": "10.2.1",
+    "conventional-changelog-conventionalcommits": "10.3.0",
     "lefthook": "2.1.10",
-    "lint-staged": "17.1.1",
+    "lint-staged": "17.3.0",
     "prettier": "3.9.6",
     "semantic-release": "25.0.9",
     "semantic-release-vsce": "6.1.6"
