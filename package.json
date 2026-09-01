@@ -57,7 +57,7 @@
     "@vscode/vsce": "3.9.2",
     "conventional-changelog-conventionalcommits": "10.4.0",
     "lefthook": "2.1.12",
-    "lint-staged": "17.3.0",
+    "lint-staged": "17.4.1",
     "prettier": "3.9.6",
     "semantic-release": "25.0.9",
     "semantic-release-vsce": "6.1.7"
