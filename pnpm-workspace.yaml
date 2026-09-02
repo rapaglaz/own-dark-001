@@ -1,5 +1,5 @@
 overrides:
-  conventional-changelog-writer: ^9.2.1
+  conventional-changelog-writer: 9.2.1
 allowBuilds:
   '@vscode/vsce-sign': true
   keytar: true

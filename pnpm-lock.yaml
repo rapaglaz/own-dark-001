@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
-  conventional-changelog-writer: ^9.2.1
+  conventional-changelog-writer: 9.2.1
 
 importers:
 
