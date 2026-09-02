@@ -1,3 +1,9 @@
+## [0.3.29](https://github.com/rapaglaz/own-dark-001/compare/v0.3.28...v0.3.29) (2026-09-02)
+
+### Changes
+
+* **breadcrumbs:** improve colors ([e75e51d](https://github.com/rapaglaz/own-dark-001/commit/e75e51d196f050efb4d54394a30d3d46950be322))
+
 ## [0.3.28](https://github.com/rapaglaz/own-dark-001/compare/v0.3.27...v0.3.28) (2026-09-02)
 
 ### Changes
