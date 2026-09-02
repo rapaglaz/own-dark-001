@@ -1,3 +1,9 @@
+## [0.3.28](https://github.com/rapaglaz/own-dark-001/compare/v0.3.27...v0.3.28) (2026-09-02)
+
+### Changes
+
+* **release:** trigger republish with corrected changelog ([52e65cc](https://github.com/rapaglaz/own-dark-001/commit/52e65ccece2182d246594e5042bd56eb55c8c2d2))
+
 ## [0.3.27](https://github.com/rapaglaz/own-dark-001/compare/v0.3.26...v0.3.27) (2026-09-02)
 
 ### Changes
