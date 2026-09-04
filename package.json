@@ -41,7 +41,6 @@
   },
   "scripts": {
     "vsce:pack": "vsce pack -o ./",
-    "vsce:publish": "vsce publish",
     "format:write": "prettier --write .",
     "format:check": "prettier --check .",
     "prepare": "lefthook install"
@@ -58,6 +57,7 @@
     "conventional-changelog-conventionalcommits": "9.3.1",
     "lefthook": "2.1.12",
     "lint-staged": "17.4.1",
+    "ovsx": "1.1.1",
     "prettier": "3.9.6",
     "semantic-release": "25.0.9",
     "semantic-release-vsce": "6.1.7"

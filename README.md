@@ -7,6 +7,8 @@ Cool blue-grey UI, pastel syntax highlighting, low visual noise.
 
 [VS Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=own-themes.own-dark-001)
 
+[Open VSX Registry →](https://open-vsx.org/extension/own-themes/own-dark-001)
+
 ## Screenshots
 
 ##### TypeScript
