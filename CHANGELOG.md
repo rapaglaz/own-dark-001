@@ -1,3 +1,9 @@
+## [0.3.30](https://github.com/rapaglaz/own-dark-001/compare/v0.3.29...v0.3.30) (2026-10-05)
+
+### Changes
+
+* **theme:** mute active indent guides and hide inactive guides ([23a55e2](https://github.com/rapaglaz/own-dark-001/commit/23a55e2789823efb5b8d33ff693375c76d4d89c3))
+
 ## [0.3.29](https://github.com/rapaglaz/own-dark-001/compare/v0.3.28...v0.3.29) (2026-09-02)
 
 ### Changes
