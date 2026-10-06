@@ -6,7 +6,8 @@
   "dependencyDashboardTitle": "Dependency Dashboard",
   "dependencyDashboardLabels": ["dependencies"],
   "labels": ["dependencies"],
-  "prConcurrentLimit": 7,
+  "automergeType": "pr",
+  "automergeStrategy": "squash",
   "prHourlyLimit": 3,
   "internalChecksFilter": "strict",
   "separateMajorMinor": true,
@@ -14,23 +15,28 @@
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": ["before 3am on the first day of the month"],
-    "automerge": true,
-    "automergeType": "pr",
-    "automergeStrategy": "squash"
+    "automerge": true
   },
+  "osvVulnerabilityAlerts": true,
   "vulnerabilityAlerts": {
     "enabled": true,
     "labels": ["security"],
     "groupName": null,
+    "minimumReleaseAge": "0 days",
     "schedule": ["at any time"],
     "vulnerabilityFixStrategy": "highest"
   },
   "packageRules": [
     {
-      "description": "One weekly PR for all stable patch, digest and pin updates (automerged below)",
+      "description": "One weekly PR for all stable patch, digest and pin updates (patches automerged below)",
       "matchCurrentVersion": "!/^0/",
       "matchUpdateTypes": ["patch", "digest", "pin"],
       "groupName": "patch dependencies"
+    },
+    {
+      "description": "Digest and pin updates have no release age to wait on: never automerge",
+      "matchUpdateTypes": ["digest", "pin"],
+      "automerge": false
     },
     {
       "description": "One weekly PR for all stable minor updates (merged manually)",
@@ -46,18 +52,10 @@
       "labels": ["major-update"]
     },
     {
-      "description": "Create PR for stable minor updates",
-      "matchCurrentVersion": "!/^0/",
-      "matchUpdateTypes": ["minor"],
-      "automerge": false
-    },
-    {
       "description": "Automerge stable patch updates",
       "matchCurrentVersion": "!/^0/",
       "matchUpdateTypes": ["patch"],
-      "automerge": true,
-      "automergeType": "pr",
-      "automergeStrategy": "squash"
+      "automerge": true
     },
     {
       "description": "Require approval for unstable 0.x updates",
