@@ -1,3 +1,9 @@
+## [0.3.32](https://github.com/rapaglaz/own-dark-001/compare/v0.3.31...v0.3.32) (2026-10-07)
+
+### Changes
+
+* **theme:** add modern editor tab colors ([27eaff9](https://github.com/rapaglaz/own-dark-001/commit/27eaff9cc57eefe1b9e0286577a3f9f0675b970a)), closes [#3e8a9751](https://github.com/rapaglaz/own-dark-001/issues/3e8a9751) [#3e8a9700](https://github.com/rapaglaz/own-dark-001/issues/3e8a9700)
+
 ## [0.3.31](https://github.com/rapaglaz/own-dark-001/compare/v0.3.30...v0.3.31) (2026-10-07)
 
 ### Changes
