@@ -1,3 +1,9 @@
+## [0.3.31](https://github.com/rapaglaz/own-dark-001/compare/v0.3.30...v0.3.31) (2026-10-07)
+
+### Changes
+
+* **theme:** add modern UI colors ([#316](https://github.com/rapaglaz/own-dark-001/issues/316)) ([f9f64f1](https://github.com/rapaglaz/own-dark-001/commit/f9f64f1601f52471d1b326017a8d23b5b9a3644a)), closes [#23272e](https://github.com/rapaglaz/own-dark-001/issues/23272e) [#1e2227](https://github.com/rapaglaz/own-dark-001/issues/1e2227) [#abb2bf](https://github.com/rapaglaz/own-dark-001/issues/abb2bf) [#393c40](https://github.com/rapaglaz/own-dark-001/issues/393c40)
+
 ## [0.3.30](https://github.com/rapaglaz/own-dark-001/compare/v0.3.29...v0.3.30) (2026-10-05)
 
 ### Changes
