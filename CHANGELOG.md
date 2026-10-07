@@ -1,3 +1,9 @@
+## [0.3.33](https://github.com/rapaglaz/own-dark-001/compare/v0.3.32...v0.3.33) (2026-10-07)
+
+### Changes
+
+* **theme:** update modern editor tab styling ([5504f51](https://github.com/rapaglaz/own-dark-001/commit/5504f5121cda7772d9e40c28ff9d9dc4995f81ba))
+
 ## [0.3.32](https://github.com/rapaglaz/own-dark-001/compare/v0.3.31...v0.3.32) (2026-10-07)
 
 ### Changes
