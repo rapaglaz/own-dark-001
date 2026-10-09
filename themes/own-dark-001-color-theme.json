@@ -984,7 +984,9 @@
       "scope": [
         "variable.other.property",
         "variable.other.object.property",
-        "variable.other.member"
+        "variable.other.member",
+        "variable.object.property",
+        "variable.other.constant.property"
       ],
       "settings": {
         "foreground": "#9CC2DD"
@@ -1408,7 +1410,7 @@
       }
     },
     {
-      "scope": ["entity.name.namespace", "entity.name.module"],
+      "scope": ["entity.name.namespace", "entity.name.module", "entity.name.type.module"],
       "settings": {
         "foreground": "#CBC9C2"
       }
