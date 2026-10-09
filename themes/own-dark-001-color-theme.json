@@ -1051,7 +1051,7 @@
         "meta.function.parameters variable"
       ],
       "settings": {
-        "foreground": "#94A9CB"
+        "foreground": "#C7A6B2"
       }
     },
     {
@@ -1790,7 +1790,7 @@
     "typeParameter": "#ADA1D6",
     "type": "#ADA1D6",
     "type.defaultLibrary": "#81A1C1",
-    "parameter": "#94A9CB",
+    "parameter": "#C7A6B2",
     "variable": "#D0CEC8",
     "variable.defaultLibrary": "#81A1C1",
     "property": "#9CC2DD",
