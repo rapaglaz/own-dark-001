@@ -1728,7 +1728,9 @@
         "punctuation.section.embedded.begin.js.jsx",
         "punctuation.section.embedded.end.js.jsx",
         "punctuation.section.embedded.begin.svelte",
-        "punctuation.section.embedded.end.svelte"
+        "punctuation.section.embedded.end.svelte",
+        "punctuation.section.embedded.begin.astro",
+        "punctuation.section.embedded.end.astro"
       ],
       "settings": {
         "foreground": "#CF8E6D"
