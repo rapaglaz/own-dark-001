@@ -614,7 +614,7 @@
     "tab.hoverBorder": "#393C4043",
     "tab.hoverForeground": "#FFFFFFA4",
     "tab.inactiveBackground": "#D2DFDE00",
-    "tab.inactiveForeground": "#DCDCDC80",
+    "tab.inactiveForeground": "#DCDCDC99",
     "tab.inactiveModifiedBorder": "#6B6F7400",
     "tab.lastPinnedBorder": "#6BB4E427",
     "tab.unfocusedActiveBackground": "#23272E",
