@@ -934,7 +934,12 @@
       }
     },
     {
-      "scope": ["entity.name.type.class", "entity.name.type", "entity.name.type.alias"],
+      "scope": [
+        "entity.name.type.class",
+        "entity.name.type",
+        "entity.name.type.alias",
+        "support.class.dart"
+      ],
       "settings": {
         "foreground": "#ADA1D6"
       }
@@ -943,6 +948,7 @@
       "scope": [
         "support.class",
         "support.type.python",
+        "support.type.builtin.python",
         "support.type.exception.python",
         "support.type.metaclass.python",
         "storage.type.boolean.go",
@@ -973,7 +979,11 @@
       }
     },
     {
-      "scope": ["meta.decorator entity.name.function", "entity.name.function.decorator"],
+      "scope": [
+        "meta.decorator entity.name.function",
+        "entity.name.function.decorator",
+        "storage.type.annotation.dart"
+      ],
       "settings": {
         "foreground": "#C99B78",
         "fontStyle": ""
@@ -1845,6 +1855,11 @@
     "clsParameter:python": "#81A1C1",
     "class.builtin:python": "#81A1C1",
     "*.decorator:python": "#C99B78",
+    "string.escapeCharacter:python": "#76B4C7",
+    "annotation:dart": "#C99B78",
+    "boolean:dart": "#81A1C1",
+    "keyword.control:dart": "#D29FC8",
+    "string.escape:dart": "#76B4C7",
     "table:toml": "#9AAABE",
     "key:toml": "#9AAABE",
     "boolean:toml": "#81A1C1",
