@@ -134,7 +134,7 @@
     "editor.lineHighlightBorder": "#49799814",
     "editor.linkedEditingBackground": "#FF00004D",
     "editor.rangeHighlightBackground": "#FFFFFF0B",
-    "editor.selectionBackground": "#34557A",
+    "editor.selectionBackground": "#34557AA1",
     "editor.selectionForeground": "#D0CEC8",
     "editor.selectionHighlightBackground": "#3A4A5840",
     "editor.snippetFinalTabstopHighlightBorder": "#525252",
