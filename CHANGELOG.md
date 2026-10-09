@@ -1,3 +1,17 @@
+## [0.3.36](https://github.com/rapaglaz/own-dark-001/compare/v0.3.35...v0.3.36) (2026-10-09)
+
+### Changes
+
+* **theme:** align Astro expression braces ([95dd55b](https://github.com/rapaglaz/own-dark-001/commit/95dd55bd7496f802ce9e9eb6077d928e3310557a))
+* **theme:** align Go types and Rust Self colors ([8e4b6e1](https://github.com/rapaglaz/own-dark-001/commit/8e4b6e1af47fd55ec3815f5c448783ee3f6a9b5c))
+* **theme:** align multilingual token colors ([6d54cd6](https://github.com/rapaglaz/own-dark-001/commit/6d54cd69d725452f74f85b4179851acc710a56ce))
+* **theme:** align Python and Dart token colors ([ee03e8d](https://github.com/rapaglaz/own-dark-001/commit/ee03e8de0d8e1aa5277ac43b37978c380375d36e))
+* **theme:** align remaining Rust token colors ([fbd4663](https://github.com/rapaglaz/own-dark-001/commit/fbd4663c2758209b979523db5c148aa1ddd8b31d))
+* **theme:** align Vue JSX and Svelte token colors ([e13ba89](https://github.com/rapaglaz/own-dark-001/commit/e13ba89cdf5105b0a514668da8a25e589e060206))
+* **theme:** improve input placeholder contrast ([6e4f05a](https://github.com/rapaglaz/own-dark-001/commit/6e4f05aba644341de093c03e36ec9abf066b56ce))
+* **theme:** improve terminal bright black contrast ([de25d16](https://github.com/rapaglaz/own-dark-001/commit/de25d16a9f75203b4356c97da3dc503d419fc851))
+* **theme:** make editor selection background translucent ([8a31fd1](https://github.com/rapaglaz/own-dark-001/commit/8a31fd1c4a019a2677d72e9882c6dc98d3c14b33))
+
 ## [0.3.35](https://github.com/rapaglaz/own-dark-001/compare/v0.3.34...v0.3.35) (2026-10-09)
 
 ### Changes
