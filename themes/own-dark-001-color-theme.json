@@ -992,7 +992,7 @@
     {
       "scope": "punctuation.decorator",
       "settings": {
-        "foreground": "#9882B0",
+        "foreground": "#9D89B0",
         "fontStyle": ""
       }
     },
