@@ -1,3 +1,12 @@
+## [0.3.35](https://github.com/rapaglaz/own-dark-001/compare/v0.3.34...v0.3.35) (2026-10-09)
+
+### Changes
+
+* **theme:** align semantic roles and symbol icon colors ([cc4f073](https://github.com/rapaglaz/own-dark-001/commit/cc4f0730f03ca3a3bed831c1475daae864ed167c))
+* **theme:** deduplicate rules and normalize hex colors ([834ad2b](https://github.com/rapaglaz/own-dark-001/commit/834ad2b48f429c660053567148cb7bc0e3f69a12))
+* **theme:** improve find match text contrast ([cd489a7](https://github.com/rapaglaz/own-dark-001/commit/cd489a77ed4567b28487c3554b544d220db51091))
+* **theme:** improve syntax and selection contrast ([66f81eb](https://github.com/rapaglaz/own-dark-001/commit/66f81ebb24952f454050cd242c01fb2f6ecd20eb))
+
 ## [0.3.34](https://github.com/rapaglaz/own-dark-001/compare/v0.3.33...v0.3.34) (2026-10-09)
 
 ### Changes
