@@ -1,3 +1,10 @@
+## [0.3.34](https://github.com/rapaglaz/own-dark-001/compare/v0.3.33...v0.3.34) (2026-10-09)
+
+### Changes
+
+* **theme:** align decorator and Angular template scopes ([da26912](https://github.com/rapaglaz/own-dark-001/commit/da269123d441042692b0f28effce5b67d315828b))
+* **theme:** align TypeScript property and namespace scopes ([f268cf9](https://github.com/rapaglaz/own-dark-001/commit/f268cf9368f70a4f5e5ba0cf9cce7f5a63ea5a56))
+
 ## [0.3.33](https://github.com/rapaglaz/own-dark-001/compare/v0.3.32...v0.3.33) (2026-10-07)
 
 ### Changes
