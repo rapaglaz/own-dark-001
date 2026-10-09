@@ -945,6 +945,12 @@
       }
     },
     {
+      "scope": "entity.other.inherited-class.ts",
+      "settings": {
+        "foreground": "#ADA1D6"
+      }
+    },
+    {
       "scope": [
         "support.class",
         "support.type.python",
@@ -1483,6 +1489,8 @@
         "punctuation.definition.typeparameters.end",
         "punctuation.definition.array.begin",
         "punctuation.definition.array.end",
+        "meta.brace.round.ts",
+        "meta.brace.square.ts",
         "punctuation.definition.sequence.yaml"
       ],
       "settings": {
@@ -1655,9 +1663,39 @@
       }
     },
     {
-      "scope": "meta.expression.ng",
+      "scope": [
+        "expression.ng",
+        "control.block.expression.ng",
+        "meta.definition.variable.initializer.ng"
+      ],
       "settings": {
         "foreground": "#CBC9C2"
+      }
+    },
+    {
+      "scope": [
+        "expression.ng constant.other.property",
+        "control.block.expression.ng constant.other.property",
+        "meta.definition.variable.initializer.ng constant.other.property",
+        "expression.ng constant.other.object.property",
+        "control.block.expression.ng constant.other.object.property",
+        "meta.definition.variable.initializer.ng constant.other.object.property"
+      ],
+      "settings": {
+        "foreground": "#9CC2DD"
+      }
+    },
+    {
+      "scope": [
+        "expression.ng constant.character.other",
+        "control.block.expression.ng constant.character.other",
+        "meta.definition.variable.initializer.ng constant.character.other",
+        "expression.ng constant.other.object",
+        "control.block.expression.ng constant.other.object",
+        "meta.definition.variable.initializer.ng constant.other.object"
+      ],
+      "settings": {
+        "foreground": "#D0CEC8"
       }
     },
     {
@@ -1756,6 +1794,7 @@
     "variable": "#D0CEC8",
     "variable.defaultLibrary": "#81A1C1",
     "property": "#9CC2DD",
+    "property.defaultLibrary": "#81A1C1",
     "enumMember": "#BFB58E",
     "decorator": "#C99B78",
     "event": "#C99B78",
