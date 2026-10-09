@@ -1203,28 +1203,7 @@
       }
     },
     {
-      "scope": "invalid.broken",
-      "settings": {
-        "foreground": "#D36C6C",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "invalid.deprecated",
-      "settings": {
-        "foreground": "#D36C6C",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "invalid.illegal",
-      "settings": {
-        "foreground": "#D36C6C",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "invalid.unimplemented",
+      "scope": ["invalid.broken", "invalid.deprecated", "invalid.illegal", "invalid.unimplemented"],
       "settings": {
         "foreground": "#D36C6C",
         "fontStyle": "italic"
@@ -1486,45 +1465,25 @@
         "punctuation.terminator",
         "punctuation.terminator.statement",
         "punctuation.terminator.rule.css",
-        "punctuation.terminator.rule.scss"
-      ],
-      "settings": {
-        "foreground": "#8A93A1"
-      }
-    },
-    {
-      "scope": [
+        "punctuation.terminator.rule.scss",
         "punctuation.separator",
         "punctuation.separator.comma",
         "punctuation.separator.key-value",
         "punctuation.separator.colon",
         "punctuation.accessor",
-        "punctuation.accessor.optional"
-      ],
-      "settings": {
-        "foreground": "#8A93A1"
-      }
-    },
-    {
-      "scope": [
+        "punctuation.accessor.optional",
         "punctuation.section.block.begin",
         "punctuation.section.block.end",
         "punctuation.definition.block",
         "punctuation.definition.arguments.begin",
         "punctuation.definition.arguments.end",
         "punctuation.definition.parameters.begin",
-        "punctuation.definition.parameters.end"
-      ],
-      "settings": {
-        "foreground": "#8A93A1"
-      }
-    },
-    {
-      "scope": [
+        "punctuation.definition.parameters.end",
         "punctuation.definition.typeparameters.begin",
         "punctuation.definition.typeparameters.end",
         "punctuation.definition.array.begin",
-        "punctuation.definition.array.end"
+        "punctuation.definition.array.end",
+        "punctuation.definition.sequence.yaml"
       ],
       "settings": {
         "foreground": "#8A93A1"
@@ -1798,12 +1757,6 @@
       "scope": "punctuation.definition.anchor.yaml",
       "settings": {
         "foreground": "#76B4C7"
-      }
-    },
-    {
-      "scope": "punctuation.definition.sequence.yaml",
-      "settings": {
-        "foreground": "#8A93A1"
       }
     }
   ],
