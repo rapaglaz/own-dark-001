@@ -811,7 +811,7 @@
       }
     },
     {
-      "scope": ["constant.numeric", "constant.numeric.decimal", "constant.numeric.integer"],
+      "scope": "constant.numeric",
       "settings": {
         "foreground": "#E68C68"
       }
@@ -1468,7 +1468,6 @@
     {
       "scope": [
         "entity.name.function.macro",
-        "entity.name.function.macro.rules",
         "support.function.macro",
         "keyword.other.macro.rules"
       ],
@@ -1578,11 +1577,7 @@
       }
     },
     {
-      "scope": [
-        "storage.type.function.arrow",
-        "storage.type.function.arrow.ts",
-        "storage.type.function.arrow.js"
-      ],
+      "scope": "storage.type.function.arrow",
       "settings": {
         "foreground": "#96B8DB"
       }
