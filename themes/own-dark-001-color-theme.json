@@ -944,7 +944,16 @@
         "support.class",
         "support.type.python",
         "support.type.exception.python",
-        "support.type.metaclass.python"
+        "support.type.metaclass.python",
+        "storage.type.boolean.go",
+        "storage.type.byte.go",
+        "storage.type.error.go",
+        "storage.type.numeric.go",
+        "storage.type.rune.go",
+        "storage.type.string.go",
+        "storage.type.uintptr.go",
+        "entity.name.type.any.go",
+        "entity.name.type.comparable.go"
       ],
       "settings": {
         "foreground": "#81A1C1"
@@ -1410,7 +1419,12 @@
       }
     },
     {
-      "scope": ["entity.name.namespace", "entity.name.module", "entity.name.type.module"],
+      "scope": [
+        "entity.name.namespace",
+        "entity.name.module",
+        "entity.name.type.module",
+        "entity.name.type.package.go"
+      ],
       "settings": {
         "foreground": "#CBC9C2"
       }
@@ -1812,6 +1826,7 @@
     "operator": "#8A93A1",
     "selfKeyword": { "foreground": "#81A1C1" },
     "selfParameter": { "foreground": "#81A1C1" },
+    "selfTypeKeyword:rust": "#81A1C1",
     "builtinAttribute": "#81A1C1",
     "lifetime": "#D08770",
     "derive": "#96B8DB",
