@@ -1008,7 +1008,7 @@
       }
     },
     {
-      "scope": "variable.other.constant",
+      "scope": ["variable.other.constant", "constant.other.caps.rust"],
       "settings": {
         "foreground": "#D0CEC8"
       }
@@ -1619,7 +1619,7 @@
       }
     },
     {
-      "scope": "entity.name.type.interface",
+      "scope": ["entity.name.type.interface", "entity.name.type.trait.rust"],
       "settings": {
         "foreground": "#9094CC"
       }
@@ -1821,6 +1821,8 @@
     "typeAlias": "#ADA1D6",
     "union": "#ADA1D6",
     "boolean": "#76B4C7",
+    "boolean:rust": "#81A1C1",
+    "keyword.controlFlow:rust": "#D29FC8",
     "module:python": "#CBC9C2",
     "member:python": "#C99B78",
     "magicFunction:python": "#C99B78",
