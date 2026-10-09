@@ -1076,7 +1076,12 @@
       }
     },
     {
-      "scope": "support.class.component",
+      "scope": [
+        "support.class.component",
+        "entity.name.tag.html.vue",
+        "text.html.vue meta.tag.other.unrecognized.html.derivative entity.name.tag.html",
+        "text.html.vue meta.tag.custom entity.name.tag.html"
+      ],
       "settings": {
         "foreground": "#ADA1D6"
       }
@@ -1088,7 +1093,10 @@
       }
     },
     {
-      "scope": "entity.other.attribute-name",
+      "scope": [
+        "entity.other.attribute-name",
+        "meta.directive.bind.svelte entity.name.type.svelte"
+      ],
       "settings": {
         "foreground": "#A8C4BE"
       }
@@ -1716,7 +1724,11 @@
         "punctuation.section.embedded.begin.tsx",
         "punctuation.section.embedded.end.tsx",
         "punctuation.section.embedded.begin.jsx",
-        "punctuation.section.embedded.end.jsx"
+        "punctuation.section.embedded.end.jsx",
+        "punctuation.section.embedded.begin.js.jsx",
+        "punctuation.section.embedded.end.js.jsx",
+        "punctuation.section.embedded.begin.svelte",
+        "punctuation.section.embedded.end.svelte"
       ],
       "settings": {
         "foreground": "#CF8E6D"
