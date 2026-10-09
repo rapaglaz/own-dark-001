@@ -262,7 +262,7 @@
     "editorSuggestWidgetStatus.foreground": "#ABB2BF80",
     "editorUnicodeHighlight.border": "#FFF20086",
     "editorUnnecessaryCode.border": "#99FF0000",
-    "editorUnnecessaryCode.opacity": "#5A5A5A79",
+    "editorUnnecessaryCode.opacity": "#5A5A5AA1",
     "editorWarning.border": "#00000000",
     "editorWarning.foreground": "#C4A05A",
     "editorWidget.background": "#1E2227",
