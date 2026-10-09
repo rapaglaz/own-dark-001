@@ -940,7 +940,12 @@
       }
     },
     {
-      "scope": "support.class",
+      "scope": [
+        "support.class",
+        "support.type.python",
+        "support.type.exception.python",
+        "support.type.metaclass.python"
+      ],
       "settings": {
         "foreground": "#81A1C1"
       }
@@ -989,7 +994,8 @@
         "variable.other.object.property",
         "variable.other.member",
         "variable.object.property",
-        "variable.other.constant.property"
+        "variable.other.constant.property",
+        "entity.other.attribute.lua"
       ],
       "settings": {
         "foreground": "#9CC2DD"
@@ -1021,6 +1027,15 @@
       ],
       "settings": {
         "foreground": "#94A9CB"
+      }
+    },
+    {
+      "scope": [
+        "variable.parameter.function.language.special.self.python",
+        "variable.parameter.function.language.special.cls.python"
+      ],
+      "settings": {
+        "foreground": "#81A1C1"
       }
     },
     {
@@ -1523,6 +1538,7 @@
       "scope": [
         "storage.type.lifetime",
         "entity.name.lifetime.rust",
+        "entity.name.type.lifetime.rust",
         "punctuation.definition.lifetime.rust"
       ],
       "settings": {
@@ -1540,7 +1556,12 @@
       }
     },
     {
-      "scope": ["support.type.property-name.toml", "entity.name.tag.toml"],
+      "scope": [
+        "support.type.property-name.toml",
+        "entity.name.tag.toml",
+        "variable.other.key.toml",
+        "entity.name.type.table.toml"
+      ],
       "settings": {
         "foreground": "#9AAABE"
       }
@@ -1708,7 +1729,13 @@
       }
     },
     {
-      "scope": "constant.other.time.toml",
+      "scope": [
+        "constant.other.time.toml",
+        "constant.other.datetime.offset.toml",
+        "constant.other.datetime.local.toml",
+        "constant.other.date.local.toml",
+        "constant.other.time.local.toml"
+      ],
       "settings": {
         "foreground": "#C4A07C"
       }
@@ -1794,6 +1821,20 @@
     "typeAlias": "#ADA1D6",
     "union": "#ADA1D6",
     "boolean": "#76B4C7",
+    "module:python": "#CBC9C2",
+    "member:python": "#C99B78",
+    "magicFunction:python": "#C99B78",
+    "intrinsic:python": "#81A1C1",
+    "clsParameter:python": "#81A1C1",
+    "class.builtin:python": "#81A1C1",
+    "*.decorator:python": "#C99B78",
+    "table:toml": "#9AAABE",
+    "key:toml": "#9AAABE",
+    "boolean:toml": "#81A1C1",
+    "offsetDateTime:toml": "#C4A07C",
+    "localDateTime:toml": "#C4A07C",
+    "localDate:toml": "#C4A07C",
+    "localTime:toml": "#C4A07C",
     "*.deprecated": {
       "strikethrough": true
     }
