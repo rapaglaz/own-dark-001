@@ -1611,20 +1611,13 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag.custom",
-        "entity.name.tag.ng",
-        "meta.tag.other.unrecognized entity.name.tag"
-      ],
+      "scope": ["entity.name.tag.custom", "meta.tag.other.unrecognized entity.name.tag"],
       "settings": {
         "foreground": "#88C0D0"
       }
     },
     {
       "scope": [
-        "keyword.control.flow.angular",
-        "keyword.other.expression.angular",
-        "entity.other.attribute-name.template.angular",
         "keyword.control.block.kind.ng",
         "keyword.control.block.transition.ng",
         "keyword.control.track.ng",
@@ -1635,19 +1628,13 @@
       }
     },
     {
-      "scope": [
-        "entity.other.attribute-name.event.angular",
-        "entity.other.ng-binding-name.event.html"
-      ],
+      "scope": "entity.other.ng-binding-name.event.html",
       "settings": {
         "foreground": "#C99B78"
       }
     },
     {
-      "scope": [
-        "entity.other.attribute-name.two-way.angular",
-        "entity.other.ng-binding-name.two-way.html"
-      ],
+      "scope": "entity.other.ng-binding-name.two-way.html",
       "settings": {
         "foreground": "#76B4C7"
       }
@@ -1688,12 +1675,6 @@
       ],
       "settings": {
         "foreground": "#CF8E6D"
-      }
-    },
-    {
-      "scope": ["keyword.at-rule.css", "keyword.at-rule.scss"],
-      "settings": {
-        "foreground": "#D29FC8"
       }
     },
     {
