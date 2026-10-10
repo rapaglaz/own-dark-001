@@ -978,7 +978,10 @@
         "support.constant.handlebars",
         "source.powershell variable.other.member",
         "entity.name.operator.custom-literal",
-        "support.function.git-rebase"
+        "support.function.git-rebase",
+        "meta.directive.on.svelte entity.name.type.svelte",
+        "meta.directive.transition.svelte entity.name.type.svelte",
+        "variable.function.svelte"
       ],
       "settings": {
         "foreground": "#C99B78"
@@ -1777,6 +1780,42 @@
       "settings": {
         "foreground": "#76B4C7"
       }
+    },
+    {
+      "scope": ["storage.type.haskell", "variable.other.generic-type.haskell"],
+      "settings": {
+        "foreground": "#ADA1D6"
+      }
+    },
+    {
+      "scope": "constant.other.haskell",
+      "settings": {
+        "foreground": "#BFB58E"
+      }
+    },
+    {
+      "scope": "source.rust meta.interpolation",
+      "settings": {
+        "foreground": "#76B4C7"
+      }
+    },
+    {
+      "scope": "entity.other.element.rnc",
+      "settings": {
+        "foreground": "#88C0D0"
+      }
+    },
+    {
+      "scope": "entity.other.attribute.rnc",
+      "settings": {
+        "foreground": "#A8C4BE"
+      }
+    },
+    {
+      "scope": "operator.go.mod",
+      "settings": {
+        "foreground": "#8A93A1"
+      }
     }
   ],
   "semanticTokenColors": {
@@ -1802,6 +1841,8 @@
     "method": "#C99B78",
     "macro": "#96B8DB",
     "label": "#CBC9C2",
+    "label:rust": "#D08770",
+    "enum:haskell": "#ADA1D6",
     "comment": {
       "foreground": "#7A7E85",
       "italic": false
@@ -1830,14 +1871,21 @@
     "boolean:rust": "#81A1C1",
     "keyword.controlFlow:rust": "#D29FC8",
     "module:python": "#CBC9C2",
-    "member:python": "#C99B78",
     "magicFunction:python": "#C99B78",
     "intrinsic:python": "#81A1C1",
     "clsParameter:python": "#81A1C1",
     "class.builtin:python": "#81A1C1",
     "*.decorator:python": "#C99B78",
     "string.escapeCharacter:python": "#76B4C7",
+    "string.escapeCharacter.invalid:python": {
+      "foreground": "#D36C6C",
+      "italic": true
+    },
     "annotation:dart": "#C99B78",
+    "class.annotation:dart": "#C99B78",
+    "variable.annotation:dart": "#C99B78",
+    "property.annotation:dart": "#C99B78",
+    "method.annotation:dart": "#C99B78",
     "boolean:dart": "#81A1C1",
     "keyword.control:dart": "#D29FC8",
     "string.escape:dart": "#76B4C7",
