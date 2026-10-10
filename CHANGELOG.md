@@ -1,3 +1,21 @@
+## [0.3.37](https://github.com/rapaglaz/own-dark-001/compare/v0.3.36...v0.3.37) (2026-10-10)
+
+### Changes
+
+* **theme:** align CSS custom property references ([6999248](https://github.com/rapaglaz/own-dark-001/commit/69992482ef9e49ab3d342e5387859b819c7e88a7))
+* **theme:** align debugger value colors with syntax palette ([42d6ce2](https://github.com/rapaglaz/own-dark-001/commit/42d6ce20d2e2be708f7e548dc74ffd81ab73f8bc))
+* **theme:** align decorator punctuation color ([f995bcb](https://github.com/rapaglaz/own-dark-001/commit/f995bcb60bc904f385817e1e472f9a77be942edd))
+* **theme:** align semantic and Angular token fallbacks ([f52857d](https://github.com/rapaglaz/own-dark-001/commit/f52857d29f8d0abc8b19f526d87b7f3cb0c59219))
+* **theme:** consolidate punctuation and invalid token rules ([4ba9e55](https://github.com/rapaglaz/own-dark-001/commit/4ba9e553a0b5324d60042e05a8dc4cbd3baeab7b))
+* **theme:** distinguish parameters from keywords ([d1f83ea](https://github.com/rapaglaz/own-dark-001/commit/d1f83ea3cfd83d550610270d2ac8fec0af80a4b9))
+* **theme:** improve inactive tab label contrast ([42044aa](https://github.com/rapaglaz/own-dark-001/commit/42044aa6745daf510a996193ddf8f5d3d8d91314))
+* **theme:** improve language fallbacks and semantic overrides ([1334236](https://github.com/rapaglaz/own-dark-001/commit/133423646c8e8e1a23413bffef80cbcb895c2b69))
+* **theme:** improve selection and bracket contrast ([f90445e](https://github.com/rapaglaz/own-dark-001/commit/f90445e5062d3e704a2e99d3fb76a5477ca83469))
+* **theme:** preserve default library class declaration colors ([86e2ed5](https://github.com/rapaglaz/own-dark-001/commit/86e2ed56d3a044aef44700f41aeff7342fef6250))
+* **theme:** remove redundant numeric and function scopes ([7b9e64a](https://github.com/rapaglaz/own-dark-001/commit/7b9e64ac5e82078fa25a17ac625fb14fcdce0e17))
+* **theme:** remove unused Angular and CSS selectors ([4c9488e](https://github.com/rapaglaz/own-dark-001/commit/4c9488ecd716e53e538a48bc99ceae1c4b2305f9))
+* **theme:** set unnecessary code opacity to A1 ([3788eea](https://github.com/rapaglaz/own-dark-001/commit/3788eeac76be35a23e1fbdcea86af05ba625d224))
+
 ## [0.3.36](https://github.com/rapaglaz/own-dark-001/compare/v0.3.35...v0.3.36) (2026-10-09)
 
 ### Changes
