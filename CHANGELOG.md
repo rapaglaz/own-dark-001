@@ -1,3 +1,10 @@
+## [0.3.38](https://github.com/rapaglaz/own-dark-001/compare/v0.3.37...v0.3.38) (2026-10-11)
+
+### Changes
+
+* **theme:** add error lens colors ([46c8ceb](https://github.com/rapaglaz/own-dark-001/commit/46c8ceb32a406cd6bfecbae5e3f035af39309bae))
+* **theme:** mute Error Lens status bar colors ([70c0fd8](https://github.com/rapaglaz/own-dark-001/commit/70c0fd8ff1626533341dfcee0b2d33b0985acf6a))
+
 ## [0.3.37](https://github.com/rapaglaz/own-dark-001/compare/v0.3.36...v0.3.37) (2026-10-10)
 
 ### Changes
