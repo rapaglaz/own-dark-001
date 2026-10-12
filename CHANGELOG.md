@@ -1,3 +1,9 @@
+## [0.3.39](https://github.com/rapaglaz/own-dark-001/compare/v0.3.38...v0.3.39) (2026-10-12)
+
+### Changes
+
+* **theme:** align gutter, git decoration and diff colors with editor palette ([40a5ae6](https://github.com/rapaglaz/own-dark-001/commit/40a5ae6a8da3a668ca54ec35b53f54cda21a5a70))
+
 ## [0.3.38](https://github.com/rapaglaz/own-dark-001/compare/v0.3.37...v0.3.38) (2026-10-11)
 
 ### Changes
