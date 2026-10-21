@@ -1,3 +1,9 @@
+## [0.3.40](https://github.com/rapaglaz/own-dark-001/compare/v0.3.39...v0.3.40) (2026-10-21)
+
+### Changes
+
+* **readme:** document modern UI connected tab color override ([df01ce9](https://github.com/rapaglaz/own-dark-001/commit/df01ce90035be3f51d5f432b0a79603080809b99))
+
 ## [0.3.39](https://github.com/rapaglaz/own-dark-001/compare/v0.3.38...v0.3.39) (2026-10-12)
 
 ### Changes
