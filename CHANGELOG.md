@@ -1,3 +1,10 @@
+## [0.3.41](https://github.com/rapaglaz/own-dark-001/compare/v0.3.40...v0.3.41) (2026-10-22)
+
+### Changes
+
+* **readme:** update screenshots and remove outdated section ([b891ed9](https://github.com/rapaglaz/own-dark-001/commit/b891ed9ad31ae403dcfd5ffeb1b639b219fc14fa))
+* **theme:** adjust tab, header and breadcrumb colors ([111a2f5](https://github.com/rapaglaz/own-dark-001/commit/111a2f5c4b89ff46397c6bbe274fb52b138cefb4))
+
 ## [0.3.40](https://github.com/rapaglaz/own-dark-001/compare/v0.3.39...v0.3.40) (2026-10-21)
 
 ### Changes
