@@ -1,3 +1,9 @@
+## [0.3.43](https://github.com/rapaglaz/own-dark-001/compare/v0.3.42...v0.3.43) (2026-10-24)
+
+### Changes
+
+* **contributing:** move development section out of README ([#324](https://github.com/rapaglaz/own-dark-001/issues/324)) ([1fc1c17](https://github.com/rapaglaz/own-dark-001/commit/1fc1c17bef2f15247e20fb94d72fa166a50c5807))
+
 ## [0.3.42](https://github.com/rapaglaz/own-dark-001/compare/v0.3.41...v0.3.42) (2026-10-24)
 
 ### Changes
