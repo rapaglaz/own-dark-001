@@ -28,3 +28,15 @@ Cool blue-grey UI, pastel syntax highlighting, low visual noise.
 ### YAML
 
 ![YAML](https://github.com/rapaglaz/own-dark-001/blob/main/screenshots/screenshot-74.png?raw=true)
+
+## Development
+
+Tools and tasks are managed with [mise](https://mise.jdx.dev).
+
+```sh
+mise install
+mise run install
+mise run pack
+```
+
+`mise run changelog:preview` prints the notes of the next release. Releases run in GitHub Actions (`Release` workflow), which calls `mise run release`.

@@ -1,0 +1,25 @@
+[tools]
+node = "24.22.0"
+# Must match "packageManager" in package.json.
+pnpm = "12.14.0"
+git-cliff = "2.14.2"
+
+[tasks.install]
+description = "Install dependencies from the lockfile"
+run = "pnpm install --frozen-lockfile"
+
+[tasks."format:check"]
+description = "Check formatting with Prettier"
+run = "pnpm exec prettier --check ."
+
+[tasks."format:write"]
+description = "Format files with Prettier"
+run = "pnpm exec prettier --write ."
+
+[tasks.pack]
+description = "Build the .vsix package"
+run = "pnpm exec vsce pack --no-dependencies -o ./"
+
+[tasks."changelog:preview"]
+description = "Print the notes of the next release without writing files"
+run = "git cliff --unreleased --bump"
