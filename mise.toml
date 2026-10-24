@@ -23,3 +23,11 @@ run = "pnpm exec vsce pack --no-dependencies -o ./"
 [tasks."changelog:preview"]
 description = "Print the notes of the next release without writing files"
 run = "git cliff --unreleased --bump"
+
+[tasks."release:prepare"]
+description = "On main: version and CHANGELOG.md on a release branch and a pull request (optional argument vX.Y.Z)"
+run = "bash scripts/release.sh prepare"
+
+[tasks."release:tag"]
+description = "On main after the release pull request: push the signed tag of the release"
+run = "bash scripts/release.sh tag"
