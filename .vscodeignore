@@ -22,4 +22,4 @@ pnpm-workspace.yaml
 .lintstagedrc.js
 cliff.toml
 mise.toml
-mise-tasks/**
+scripts/**

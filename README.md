@@ -39,4 +39,13 @@ mise run install
 mise run pack
 ```
 
-`mise run changelog:preview` prints the notes of the next release. Releases run in GitHub Actions (`Release` workflow), which calls `mise run release`.
+`mise run changelog:preview` prints the notes of the next release.
+
+A release has two steps, because `main` accepts changes only through pull requests:
+
+```sh
+mise run release:prepare   # on main: release branch, version, CHANGELOG.md, pull request
+# merge the pull request, then:
+git switch main && git pull --ff-only
+mise run release:tag       # signed tag; the Release workflow packages and publishes
+```
