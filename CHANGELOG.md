@@ -1,3 +1,9 @@
+## [0.3.42](https://github.com/rapaglaz/own-dark-001/compare/v0.3.41...v0.3.42) (2026-10-24)
+
+### Changes
+
+* **readme:** update screenshot section headings ([90d8587](https://github.com/rapaglaz/own-dark-001/commit/90d858710f6bd05d9b8009934a11efa2aa6db7da))
+
 ## [0.3.41](https://github.com/rapaglaz/own-dark-001/compare/v0.3.40...v0.3.41) (2026-10-22)
 
 ### Changes
