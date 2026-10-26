@@ -43,8 +43,8 @@
     "prepare": "lefthook install"
   },
   "devDependencies": {
-    "@commitlint/cli": "21.2.3",
-    "@commitlint/config-conventional": "21.2.3",
+    "@commitlint/cli": "21.2.4",
+    "@commitlint/config-conventional": "21.2.4",
     "@vscode/vsce": "4.0.0",
     "lefthook": "2.2.2",
     "lint-staged": "17.6.0",
