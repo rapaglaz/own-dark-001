@@ -37,7 +37,13 @@
         "path": "./themes/own-dark-001-color-theme.json",
         "displayName": "Own Dark 001"
       }
-    ]
+    ],
+    "configurationDefaults": {
+      "workbench.sizeCustomizations": {
+        "panels.cornerRadius": 7,
+        "panels.spacing": 3
+      }
+    }
   },
   "scripts": {
     "prepare": "lefthook install"
