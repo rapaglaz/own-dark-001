@@ -1,3 +1,10 @@
+## [0.4.0](https://github.com/rapaglaz/own-dark-001/compare/v0.3.43...v0.4.0) (2026-11-22)
+
+### Changes
+
+* add default panel radius and spacing for Modern UI ([2f2f65c](https://github.com/rapaglaz/own-dark-001/commit/2f2f65ce0a0f4e01c71bc119644afcea09965982))
+* show border on active editor tab in Modern UI ([e80c7fd](https://github.com/rapaglaz/own-dark-001/commit/e80c7fd22a4469ef2c6fd2b34f4d826e7e751137))
+
 ## [0.3.43](https://github.com/rapaglaz/own-dark-001/compare/v0.3.42...v0.3.43) (2026-10-24)
 
 ### Changes
